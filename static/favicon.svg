@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#AE1C28"/>
+  <rect y="11" width="32" height="10" fill="#fff"/>
+  <rect y="21" width="32" height="11" rx="0" fill="#21468B"/>
+  <rect y="21" width="32" height="11" fill="#21468B"/>
+  <text x="16" y="22" text-anchor="middle" font-size="16" font-family="serif" font-weight="bold" fill="white" opacity="0.95">NL</text>
+</svg>

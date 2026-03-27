@@ -1,0 +1,5553 @@
+{
+  "nouns": [
+    {
+      "id": "noun_aardappel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "aardappel",
+      "english": "potato"
+    },
+    {
+      "id": "noun_aardbei",
+      "category": "noun",
+      "article": "de",
+      "dutch": "aardbei",
+      "english": "strawberry"
+    },
+    {
+      "id": "noun_aarde",
+      "category": "noun",
+      "article": "de",
+      "dutch": "aarde",
+      "english": "earth"
+    },
+    {
+      "id": "noun_achternaam",
+      "category": "noun",
+      "article": "de",
+      "dutch": "achternaam",
+      "english": "last name"
+    },
+    {
+      "id": "noun_acteur",
+      "category": "noun",
+      "article": "de",
+      "dutch": "acteur",
+      "english": "actor"
+    },
+    {
+      "id": "noun_actrice",
+      "category": "noun",
+      "article": "de",
+      "dutch": "actrice",
+      "english": "actress"
+    },
+    {
+      "id": "noun_adres",
+      "category": "noun",
+      "article": "het",
+      "dutch": "adres",
+      "english": "address"
+    },
+    {
+      "id": "noun_afspraak",
+      "category": "noun",
+      "article": "de",
+      "dutch": "afspraak",
+      "english": "appointment"
+    },
+    {
+      "id": "noun_afwas",
+      "category": "noun",
+      "article": "de",
+      "dutch": "afwas",
+      "english": "dishes"
+    },
+    {
+      "id": "noun_agenda",
+      "category": "noun",
+      "article": "de",
+      "dutch": "agenda",
+      "english": "agenda"
+    },
+    {
+      "id": "noun_antwoord",
+      "category": "noun",
+      "article": "het",
+      "dutch": "antwoord",
+      "english": "answer"
+    },
+    {
+      "id": "noun_appel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "appel",
+      "english": "apple"
+    },
+    {
+      "id": "noun_architect",
+      "category": "noun",
+      "article": "de",
+      "dutch": "architect",
+      "english": "architect"
+    },
+    {
+      "id": "noun_auto",
+      "category": "noun",
+      "article": "de",
+      "dutch": "auto",
+      "english": "car"
+    },
+    {
+      "id": "noun_avond",
+      "category": "noun",
+      "article": "de",
+      "dutch": "avond",
+      "english": "evening"
+    },
+    {
+      "id": "noun_avondeten",
+      "category": "noun",
+      "article": "het",
+      "dutch": "avondeten",
+      "english": "dinner"
+    },
+    {
+      "id": "noun_baas",
+      "category": "noun",
+      "article": "de",
+      "dutch": "baas",
+      "english": "boss"
+    },
+    {
+      "id": "noun_baby",
+      "category": "noun",
+      "article": "de",
+      "dutch": "baby",
+      "english": "baby"
+    },
+    {
+      "id": "noun_bad",
+      "category": "noun",
+      "article": "het",
+      "dutch": "bad",
+      "english": "bath"
+    },
+    {
+      "id": "noun_bakker",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bakker",
+      "english": "baker"
+    },
+    {
+      "id": "noun_bal",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bal",
+      "english": "ball"
+    },
+    {
+      "id": "noun_ballon",
+      "category": "noun",
+      "article": "de",
+      "dutch": "ballon",
+      "english": "balloon"
+    },
+    {
+      "id": "noun_banaan",
+      "category": "noun",
+      "article": "de",
+      "dutch": "banaan",
+      "english": "banana"
+    },
+    {
+      "id": "noun_bank",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bank",
+      "english": "bank"
+    },
+    {
+      "id": "noun_bed",
+      "category": "noun",
+      "article": "het",
+      "dutch": "bed",
+      "english": "bed"
+    },
+    {
+      "id": "noun_bedrijf",
+      "category": "noun",
+      "article": "het",
+      "dutch": "bedrijf",
+      "english": "company"
+    },
+    {
+      "id": "noun_beer",
+      "category": "noun",
+      "article": "de",
+      "dutch": "beer",
+      "english": "bear"
+    },
+    {
+      "id": "noun_belofte",
+      "category": "noun",
+      "article": "de",
+      "dutch": "belofte",
+      "english": "promise"
+    },
+    {
+      "id": "noun_bericht",
+      "category": "noun",
+      "article": "het",
+      "dutch": "bericht",
+      "english": "message"
+    },
+    {
+      "id": "noun_bezoek",
+      "category": "noun",
+      "article": "het",
+      "dutch": "bezoek",
+      "english": "visit"
+    },
+    {
+      "id": "noun_bioscoop",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bioscoop",
+      "english": "movie theater"
+    },
+    {
+      "id": "noun_blad",
+      "category": "noun",
+      "article": "het",
+      "dutch": "blad",
+      "english": "leaf"
+    },
+    {
+      "id": "noun_blauw",
+      "category": "noun",
+      "article": "het",
+      "dutch": "blauw",
+      "english": "blue"
+    },
+    {
+      "id": "noun_bloem",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bloem",
+      "english": "flower"
+    },
+    {
+      "id": "noun_bloembol",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bloembol",
+      "english": "flower bulb"
+    },
+    {
+      "id": "noun_bord",
+      "category": "noun",
+      "article": "het",
+      "dutch": "bord",
+      "english": "plate, board (blackboard)"
+    },
+    {
+      "id": "noun_boter",
+      "category": "noun",
+      "article": "de",
+      "dutch": "boter",
+      "english": "butter"
+    },
+    {
+      "id": "noun_boterham",
+      "category": "noun",
+      "article": "de",
+      "dutch": "boterham",
+      "english": "sandwich"
+    },
+    {
+      "id": "noun_brief",
+      "category": "noun",
+      "article": "de",
+      "dutch": "brief",
+      "english": "letter"
+    },
+    {
+      "id": "noun_boek",
+      "category": "noun",
+      "article": "het",
+      "dutch": "boek",
+      "english": "book"
+    },
+    {
+      "id": "noun_boer",
+      "category": "noun",
+      "article": "de",
+      "dutch": "boer",
+      "english": "farmer"
+    },
+    {
+      "id": "noun_bol",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bol",
+      "english": "bulb"
+    },
+    {
+      "id": "noun_boodschap",
+      "category": "noun",
+      "article": "de",
+      "dutch": "boodschap",
+      "english": "message"
+    },
+    {
+      "id": "noun_boom",
+      "category": "noun",
+      "article": "de",
+      "dutch": "boom",
+      "english": "tree"
+    },
+    {
+      "id": "noun_bos",
+      "category": "noun",
+      "article": "het",
+      "dutch": "bos",
+      "english": "forest"
+    },
+    {
+      "id": "noun_bril",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bril",
+      "english": "pair of glasses"
+    },
+    {
+      "id": "noun_broek",
+      "category": "noun",
+      "article": "de",
+      "dutch": "broek",
+      "english": "pants"
+    },
+    {
+      "id": "noun_broer",
+      "category": "noun",
+      "article": "de",
+      "dutch": "broer",
+      "english": "brother"
+    },
+    {
+      "id": "noun_brood",
+      "category": "noun",
+      "article": "het",
+      "dutch": "brood",
+      "english": "bread"
+    },
+    {
+      "id": "noun_bruine",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bruine",
+      "english": "brown"
+    },
+    {
+      "id": "noun_buitenland",
+      "category": "noun",
+      "article": "het",
+      "dutch": "buitenland",
+      "english": "abroad"
+    },
+    {
+      "id": "noun_bus",
+      "category": "noun",
+      "article": "de",
+      "dutch": "bus",
+      "english": "bus"
+    },
+    {
+      "id": "noun_buurman",
+      "category": "noun",
+      "article": "de",
+      "dutch": "buurman",
+      "english": "neighbor (man)"
+    },
+    {
+      "id": "noun_buurt",
+      "category": "noun",
+      "article": "de",
+      "dutch": "buurt",
+      "english": "neighbourhood"
+    },
+    {
+      "id": "noun_buurvrouw",
+      "category": "noun",
+      "article": "de",
+      "dutch": "buurvrouw",
+      "english": "neighbor (woman)"
+    },
+    {
+      "id": "noun_caf_cafe",
+      "category": "noun",
+      "article": "het",
+      "dutch": "café (cafe)",
+      "english": "cafe"
+    },
+    {
+      "id": "noun_camera",
+      "category": "noun",
+      "article": "de",
+      "dutch": "camera",
+      "english": "camera"
+    },
+    {
+      "id": "noun_cd",
+      "category": "noun",
+      "article": "de",
+      "dutch": "cd",
+      "english": "cd"
+    },
+    {
+      "id": "noun_conservatorium",
+      "category": "noun",
+      "article": "het",
+      "dutch": "conservatorium",
+      "english": "conservatory"
+    },
+    {
+      "id": "noun_courgette",
+      "category": "noun",
+      "article": "de",
+      "dutch": "courgette",
+      "english": "zucchini"
+    },
+    {
+      "id": "noun_crimineel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "crimineel",
+      "english": "criminal"
+    },
+    {
+      "id": "noun_cursus",
+      "category": "noun",
+      "article": "de",
+      "dutch": "cursus",
+      "english": "course"
+    },
+    {
+      "id": "noun_dader",
+      "category": "noun",
+      "article": "de",
+      "dutch": "dader",
+      "english": "perpetrator"
+    },
+    {
+      "id": "noun_dag",
+      "category": "noun",
+      "article": "de",
+      "dutch": "dag",
+      "english": "day"
+    },
+    {
+      "id": "noun_datum",
+      "category": "noun",
+      "article": "de",
+      "dutch": "datum",
+      "english": "date"
+    },
+    {
+      "id": "noun_decennium",
+      "category": "noun",
+      "article": "het",
+      "dutch": "decennium",
+      "english": "decade"
+    },
+    {
+      "id": "noun_deur",
+      "category": "noun",
+      "article": "de",
+      "dutch": "deur",
+      "english": "door"
+    },
+    {
+      "id": "noun_dier",
+      "category": "noun",
+      "article": "het",
+      "dutch": "dier",
+      "english": "animal"
+    },
+    {
+      "id": "noun_docent",
+      "category": "noun",
+      "article": "de",
+      "dutch": "docent",
+      "english": "teacher"
+    },
+    {
+      "id": "noun_dochter",
+      "category": "noun",
+      "article": "de",
+      "dutch": "dochter",
+      "english": "daughter"
+    },
+    {
+      "id": "noun_dokter",
+      "category": "noun",
+      "article": "de",
+      "dutch": "dokter",
+      "english": "doctor"
+    },
+    {
+      "id": "noun_doos",
+      "category": "noun",
+      "article": "de",
+      "dutch": "doos",
+      "english": "box"
+    },
+    {
+      "id": "noun_doosje",
+      "category": "noun",
+      "article": "het",
+      "dutch": "doosje",
+      "english": "(little box, turkce: kap)"
+    },
+    {
+      "id": "noun_dorp",
+      "category": "noun",
+      "article": "het",
+      "dutch": "dorp",
+      "english": "village"
+    },
+    {
+      "id": "noun_douche",
+      "category": "noun",
+      "article": "de",
+      "dutch": "douche",
+      "english": "shower (dus)"
+    },
+    {
+      "id": "noun_duif",
+      "category": "noun",
+      "article": "de",
+      "dutch": "duif",
+      "english": "pigeon"
+    },
+    {
+      "id": "noun_eend",
+      "category": "noun",
+      "article": "de",
+      "dutch": "eend",
+      "english": "duck"
+    },
+    {
+      "id": "noun_eerlijkheid",
+      "category": "noun",
+      "article": "de",
+      "dutch": "eerlijkheid",
+      "english": "honesty"
+    },
+    {
+      "id": "noun_ei",
+      "category": "noun",
+      "article": "het",
+      "dutch": "ei",
+      "english": "egg"
+    },
+    {
+      "id": "noun_eiland",
+      "category": "noun",
+      "article": "het",
+      "dutch": "eiland",
+      "english": "island"
+    },
+    {
+      "id": "noun_einde",
+      "category": "noun",
+      "article": "het",
+      "dutch": "einde",
+      "english": "end (formal)"
+    },
+    {
+      "id": "noun_eind",
+      "category": "noun",
+      "article": "het",
+      "dutch": "eind",
+      "english": "end, short length, travel distance (informal)"
+    },
+    {
+      "id": "noun_elftal",
+      "category": "noun",
+      "article": "het",
+      "dutch": "elftal",
+      "english": "team (football team)"
+    },
+    {
+      "id": "noun_eten",
+      "category": "noun",
+      "article": "het",
+      "dutch": "eten",
+      "english": "food"
+    },
+    {
+      "id": "noun_examen",
+      "category": "noun",
+      "article": "het",
+      "dutch": "examen",
+      "english": "exam"
+    },
+    {
+      "id": "noun_excuus",
+      "category": "noun",
+      "article": "het",
+      "dutch": "excuus",
+      "english": "excuse"
+    },
+    {
+      "id": "noun_familie",
+      "category": "noun",
+      "article": "de",
+      "dutch": "familie",
+      "english": "family"
+    },
+    {
+      "id": "noun_feest",
+      "category": "noun",
+      "article": "het",
+      "dutch": "feest",
+      "english": "party"
+    },
+    {
+      "id": "noun_fiets",
+      "category": "noun",
+      "article": "de",
+      "dutch": "fiets",
+      "english": "bike"
+    },
+    {
+      "id": "noun_film",
+      "category": "noun",
+      "article": "de",
+      "dutch": "film",
+      "english": "film/movie"
+    },
+    {
+      "id": "noun_fles",
+      "category": "noun",
+      "article": "de",
+      "dutch": "fles",
+      "english": "bottle"
+    },
+    {
+      "id": "noun_fluweel",
+      "category": "noun",
+      "article": "het",
+      "dutch": "fluweel",
+      "english": "velvet"
+    },
+    {
+      "id": "noun_foto",
+      "category": "noun",
+      "article": "de",
+      "dutch": "foto",
+      "english": "photo"
+    },
+    {
+      "id": "noun_fout",
+      "category": "noun",
+      "article": "de",
+      "dutch": "fout",
+      "english": "error, mistake"
+    },
+    {
+      "id": "noun_gans",
+      "category": "noun",
+      "article": "de",
+      "dutch": "gans",
+      "english": "goose"
+    },
+    {
+      "id": "noun_gast",
+      "category": "noun",
+      "article": "de",
+      "dutch": "gast",
+      "english": "guest"
+    },
+    {
+      "id": "noun_gedicht",
+      "category": "noun",
+      "article": "het",
+      "dutch": "gedicht",
+      "english": "poem"
+    },
+    {
+      "id": "noun_geel",
+      "category": "noun",
+      "article": "het",
+      "dutch": "geel",
+      "english": "yellow"
+    },
+    {
+      "id": "noun_geld",
+      "category": "noun",
+      "article": "het",
+      "dutch": "geld",
+      "english": "money"
+    },
+    {
+      "id": "noun_geluid",
+      "category": "noun",
+      "article": "het",
+      "dutch": "geluid",
+      "english": "sound"
+    },
+    {
+      "id": "noun_getuige",
+      "category": "noun",
+      "article": "de",
+      "dutch": "getuige",
+      "english": "witness"
+    },
+    {
+      "id": "noun_gezicht",
+      "category": "noun",
+      "article": "het",
+      "dutch": "gezicht",
+      "english": "face"
+    },
+    {
+      "id": "noun_gezin",
+      "category": "noun",
+      "article": "het",
+      "dutch": "gezin",
+      "english": "family (main)"
+    },
+    {
+      "id": "noun_glas",
+      "category": "noun",
+      "article": "het",
+      "dutch": "glas",
+      "english": "glass"
+    },
+    {
+      "id": "noun_goed",
+      "category": "noun",
+      "article": "het",
+      "dutch": "goed",
+      "english": "goods (singular)"
+    },
+    {
+      "id": "noun_goederen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "goederen",
+      "english": "goods (use this form)"
+    },
+    {
+      "id": "noun_goud",
+      "category": "noun",
+      "article": "het",
+      "dutch": "goud",
+      "english": "gold"
+    },
+    {
+      "id": "noun_groene",
+      "category": "noun",
+      "article": "de",
+      "dutch": "groene",
+      "english": "green"
+    },
+    {
+      "id": "noun_groente",
+      "category": "noun",
+      "article": "de",
+      "dutch": "groente",
+      "english": "vegetable"
+    },
+    {
+      "id": "noun_grond",
+      "category": "noun",
+      "article": "de",
+      "dutch": "grond",
+      "english": "ground"
+    },
+    {
+      "id": "noun_hamburger",
+      "category": "noun",
+      "article": "de",
+      "dutch": "hamburger",
+      "english": "hamburger"
+    },
+    {
+      "id": "noun_hand",
+      "category": "noun",
+      "article": "de",
+      "dutch": "hand",
+      "english": "hand"
+    },
+    {
+      "id": "noun_heelal",
+      "category": "noun",
+      "article": "het",
+      "dutch": "heelal",
+      "english": "universe"
+    },
+    {
+      "id": "noun_hek",
+      "category": "noun",
+      "article": "het",
+      "dutch": "hek",
+      "english": "fence"
+    },
+    {
+      "id": "noun_helft",
+      "category": "noun",
+      "article": "de",
+      "dutch": "helft",
+      "english": "half"
+    },
+    {
+      "id": "noun_hemd",
+      "category": "noun",
+      "article": "het",
+      "dutch": "hemd",
+      "english": "shirt"
+    },
+    {
+      "id": "noun_herfst",
+      "category": "noun",
+      "article": "de",
+      "dutch": "herfst",
+      "english": "autumn"
+    },
+    {
+      "id": "noun_hert",
+      "category": "noun",
+      "article": "het",
+      "dutch": "hert",
+      "english": "deer"
+    },
+    {
+      "id": "noun_hobby",
+      "category": "noun",
+      "article": "de",
+      "dutch": "hobby",
+      "english": "hobby"
+    },
+    {
+      "id": "noun_hok",
+      "category": "noun",
+      "article": "het",
+      "dutch": "hok",
+      "english": "animals shelter (cage)"
+    },
+    {
+      "id": "noun_hoed",
+      "category": "noun",
+      "article": "de",
+      "dutch": "hoed",
+      "english": "hat"
+    },
+    {
+      "id": "noun_hoek",
+      "category": "noun",
+      "article": "de",
+      "dutch": "hoek",
+      "english": "corner"
+    },
+    {
+      "id": "noun_hoeveelheid",
+      "category": "noun",
+      "article": "de",
+      "dutch": "hoeveelheid",
+      "english": "quantity, amount"
+    },
+    {
+      "id": "noun_hond",
+      "category": "noun",
+      "article": "de",
+      "dutch": "hond",
+      "english": "dog"
+    },
+    {
+      "id": "noun_honger",
+      "category": "noun",
+      "article": "de",
+      "dutch": "honger",
+      "english": "hunger"
+    },
+    {
+      "id": "noun_hoofd",
+      "category": "noun",
+      "article": "het",
+      "dutch": "hoofd",
+      "english": "head"
+    },
+    {
+      "id": "noun_hoofdkantoor",
+      "category": "noun",
+      "article": "het",
+      "dutch": "hoofdkantoor",
+      "english": "head office"
+    },
+    {
+      "id": "noun_hoorn",
+      "category": "noun",
+      "article": "de",
+      "dutch": "hoorn",
+      "english": "horn"
+    },
+    {
+      "id": "noun_horloge",
+      "category": "noun",
+      "article": "het",
+      "dutch": "horloge",
+      "english": "watch"
+    },
+    {
+      "id": "noun_hout",
+      "category": "noun",
+      "article": "het",
+      "dutch": "hout",
+      "english": "wood"
+    },
+    {
+      "id": "noun_huis",
+      "category": "noun",
+      "article": "het",
+      "dutch": "huis",
+      "english": "house"
+    },
+    {
+      "id": "noun_huiswerk",
+      "category": "noun",
+      "article": "het",
+      "dutch": "huiswerk",
+      "english": "homework"
+    },
+    {
+      "id": "noun_idee",
+      "category": "noun",
+      "article": "het",
+      "dutch": "idee",
+      "english": "idea"
+    },
+    {
+      "id": "noun_ijs",
+      "category": "noun",
+      "article": "het",
+      "dutch": "ijs",
+      "english": "ice"
+    },
+    {
+      "id": "noun_ijsje",
+      "category": "noun",
+      "article": "het",
+      "dutch": "ijsje",
+      "english": "icecream"
+    },
+    {
+      "id": "noun_ijzer",
+      "category": "noun",
+      "article": "het",
+      "dutch": "ijzer",
+      "english": "iron"
+    },
+    {
+      "id": "noun_informatie",
+      "category": "noun",
+      "article": "de",
+      "dutch": "informatie",
+      "english": "information"
+    },
+    {
+      "id": "noun_jaar",
+      "category": "noun",
+      "article": "het",
+      "dutch": "jaar",
+      "english": "year"
+    },
+    {
+      "id": "noun_jas",
+      "category": "noun",
+      "article": "de",
+      "dutch": "jas",
+      "english": "jacket"
+    },
+    {
+      "id": "noun_jongen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "jongen",
+      "english": "boy"
+    },
+    {
+      "id": "noun_jurk",
+      "category": "noun",
+      "article": "de",
+      "dutch": "jurk",
+      "english": "dress"
+    },
+    {
+      "id": "noun_kaart",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kaart",
+      "english": "map"
+    },
+    {
+      "id": "noun_kaas",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kaas",
+      "english": "cheese"
+    },
+    {
+      "id": "noun_kalf",
+      "category": "noun",
+      "article": "het",
+      "dutch": "kalf",
+      "english": "calv"
+    },
+    {
+      "id": "noun_kamer",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kamer",
+      "english": "room"
+    },
+    {
+      "id": "noun_kantine",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kantine",
+      "english": "canteen"
+    },
+    {
+      "id": "noun_kantoor",
+      "category": "noun",
+      "article": "het",
+      "dutch": "kantoor",
+      "english": "office"
+    },
+    {
+      "id": "noun_kapper",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kapper",
+      "english": "hairdresser"
+    },
+    {
+      "id": "noun_karton",
+      "category": "noun",
+      "article": "het",
+      "dutch": "karton",
+      "english": "cardboard"
+    },
+    {
+      "id": "noun_kast",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kast",
+      "english": "wardrope, closet"
+    },
+    {
+      "id": "noun_kat",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kat",
+      "english": "cat"
+    },
+    {
+      "id": "noun_kind",
+      "category": "noun",
+      "article": "het",
+      "dutch": "kind",
+      "english": "child"
+    },
+    {
+      "id": "noun_kip",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kip",
+      "english": "chicken"
+    },
+    {
+      "id": "noun_kleinkind",
+      "category": "noun",
+      "article": "het",
+      "dutch": "kleinkind",
+      "english": "grandchild"
+    },
+    {
+      "id": "noun_kleren",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kleren",
+      "english": "clothes"
+    },
+    {
+      "id": "noun_kleur",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kleur",
+      "english": "color"
+    },
+    {
+      "id": "noun_klok",
+      "category": "noun",
+      "article": "de",
+      "dutch": "klok",
+      "english": "clock"
+    },
+    {
+      "id": "noun_klomp",
+      "category": "noun",
+      "article": "de",
+      "dutch": "klomp",
+      "english": "clog"
+    },
+    {
+      "id": "noun_koe",
+      "category": "noun",
+      "article": "de",
+      "dutch": "koe",
+      "english": "cow"
+    },
+    {
+      "id": "noun_koekje",
+      "category": "noun",
+      "article": "het",
+      "dutch": "koekje",
+      "english": "cookie"
+    },
+    {
+      "id": "noun_koffie",
+      "category": "noun",
+      "article": "de",
+      "dutch": "koffie",
+      "english": "coffee"
+    },
+    {
+      "id": "noun_kok",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kok",
+      "english": "cook"
+    },
+    {
+      "id": "noun_konijn",
+      "category": "noun",
+      "article": "het",
+      "dutch": "konijn",
+      "english": "rabbit"
+    },
+    {
+      "id": "noun_koning",
+      "category": "noun",
+      "article": "de",
+      "dutch": "koning",
+      "english": "king"
+    },
+    {
+      "id": "noun_koningin",
+      "category": "noun",
+      "article": "de",
+      "dutch": "koningin",
+      "english": "queen"
+    },
+    {
+      "id": "noun_koor",
+      "category": "noun",
+      "article": "het",
+      "dutch": "koor",
+      "english": "choir"
+    },
+    {
+      "id": "noun_kracht",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kracht",
+      "english": "power"
+    },
+    {
+      "id": "noun_krant",
+      "category": "noun",
+      "article": "de",
+      "dutch": "krant",
+      "english": "newspaper"
+    },
+    {
+      "id": "noun_krab",
+      "category": "noun",
+      "article": "de",
+      "dutch": "krab",
+      "english": "crab"
+    },
+    {
+      "id": "noun_kroeg",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kroeg",
+      "english": "pub"
+    },
+    {
+      "id": "noun_kunst",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kunst",
+      "english": "art"
+    },
+    {
+      "id": "noun_kus",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kus",
+      "english": "kiss"
+    },
+    {
+      "id": "noun_kussen",
+      "category": "noun",
+      "article": "het",
+      "dutch": "kussen",
+      "english": "pillow"
+    },
+    {
+      "id": "noun_kwart",
+      "category": "noun",
+      "article": "de",
+      "dutch": "kwart",
+      "english": "quarter"
+    },
+    {
+      "id": "noun_lamp",
+      "category": "noun",
+      "article": "de",
+      "dutch": "lamp",
+      "english": "lamp"
+    },
+    {
+      "id": "noun_land",
+      "category": "noun",
+      "article": "het",
+      "dutch": "land",
+      "english": "land"
+    },
+    {
+      "id": "noun_landschap",
+      "category": "noun",
+      "article": "het",
+      "dutch": "landschap",
+      "english": "landscape"
+    },
+    {
+      "id": "noun_lawaai",
+      "category": "noun",
+      "article": "het",
+      "dutch": "lawaai",
+      "english": "noise"
+    },
+    {
+      "id": "noun_lente",
+      "category": "noun",
+      "article": "de",
+      "dutch": "lente",
+      "english": "spring"
+    },
+    {
+      "id": "noun_lepel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "lepel",
+      "english": "spoon"
+    },
+    {
+      "id": "noun_les",
+      "category": "noun",
+      "article": "de",
+      "dutch": "les",
+      "english": "lesson"
+    },
+    {
+      "id": "noun_leven",
+      "category": "noun",
+      "article": "het",
+      "dutch": "leven",
+      "english": "life"
+    },
+    {
+      "id": "noun_letterkunde",
+      "category": "noun",
+      "article": "de",
+      "dutch": "letterkunde",
+      "english": "literature"
+    },
+    {
+      "id": "noun_licht",
+      "category": "noun",
+      "article": "het",
+      "dutch": "licht",
+      "english": "light"
+    },
+    {
+      "id": "noun_lid",
+      "category": "noun",
+      "article": "het",
+      "dutch": "lid",
+      "english": "member"
+    },
+    {
+      "id": "noun_lied",
+      "category": "noun",
+      "article": "het",
+      "dutch": "lied",
+      "english": "song"
+    },
+    {
+      "id": "noun_liedje",
+      "category": "noun",
+      "article": "het",
+      "dutch": "liedje",
+      "english": "song"
+    },
+    {
+      "id": "noun_lidwoord",
+      "category": "noun",
+      "article": "het",
+      "dutch": "lidwoord",
+      "english": "article"
+    },
+    {
+      "id": "noun_lijn",
+      "category": "noun",
+      "article": "de",
+      "dutch": "lijn",
+      "english": "line"
+    },
+    {
+      "id": "noun_maaltijd",
+      "category": "noun",
+      "article": "de",
+      "dutch": "maaltijd",
+      "english": "meal"
+    },
+    {
+      "id": "noun_maand",
+      "category": "noun",
+      "article": "de",
+      "dutch": "maand",
+      "english": "month"
+    },
+    {
+      "id": "noun_macht",
+      "category": "noun",
+      "article": "de",
+      "dutch": "macht",
+      "english": "power"
+    },
+    {
+      "id": "noun_man",
+      "category": "noun",
+      "article": "de",
+      "dutch": "man",
+      "english": "man"
+    },
+    {
+      "id": "noun_mand",
+      "category": "noun",
+      "article": "de",
+      "dutch": "mand",
+      "english": "basket"
+    },
+    {
+      "id": "noun_map",
+      "category": "noun",
+      "article": "de",
+      "dutch": "map",
+      "english": "folder (computer folder, directory also)"
+    },
+    {
+      "id": "noun_markt",
+      "category": "noun",
+      "article": "de",
+      "dutch": "markt",
+      "english": "market"
+    },
+    {
+      "id": "noun_medicus",
+      "category": "noun",
+      "article": "de",
+      "dutch": "medicus",
+      "english": "doctor, physician"
+    },
+    {
+      "id": "noun_meid",
+      "category": "noun",
+      "article": "de",
+      "dutch": "meid",
+      "english": "maid"
+    },
+    {
+      "id": "noun_meisje",
+      "category": "noun",
+      "article": "het",
+      "dutch": "meisje",
+      "english": "girl"
+    },
+    {
+      "id": "noun_melk",
+      "category": "noun",
+      "article": "de",
+      "dutch": "melk",
+      "english": "milk"
+    },
+    {
+      "id": "noun_meneer",
+      "category": "noun",
+      "article": "de",
+      "dutch": "meneer",
+      "english": "sir, mister"
+    },
+    {
+      "id": "noun_mens",
+      "category": "noun",
+      "article": "de",
+      "dutch": "mens",
+      "english": "human"
+    },
+    {
+      "id": "noun_mensen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "mensen",
+      "english": "people"
+    },
+    {
+      "id": "noun_menu",
+      "category": "noun",
+      "article": "het",
+      "dutch": "menu",
+      "english": "menu"
+    },
+    {
+      "id": "noun_mes",
+      "category": "noun",
+      "article": "het",
+      "dutch": "mes",
+      "english": "knife"
+    },
+    {
+      "id": "noun_mevrouw",
+      "category": "noun",
+      "article": "de",
+      "dutch": "mevrouw",
+      "english": "madame, lady"
+    },
+    {
+      "id": "noun_middageten",
+      "category": "noun",
+      "article": "het",
+      "dutch": "middageten",
+      "english": "lunch"
+    },
+    {
+      "id": "noun_minuut",
+      "category": "noun",
+      "article": "de",
+      "dutch": "minuut",
+      "english": "minute"
+    },
+    {
+      "id": "noun_model",
+      "category": "noun",
+      "article": "het",
+      "dutch": "model",
+      "english": "model (model)"
+    },
+    {
+      "id": "noun_modem",
+      "category": "noun",
+      "article": "de",
+      "dutch": "modem",
+      "english": "modem"
+    },
+    {
+      "id": "noun_moeder",
+      "category": "noun",
+      "article": "de",
+      "dutch": "moeder",
+      "english": "mother"
+    },
+    {
+      "id": "noun_moment",
+      "category": "noun",
+      "article": "het",
+      "dutch": "moment",
+      "english": "moment"
+    },
+    {
+      "id": "noun_morgen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "morgen",
+      "english": "tomorrow"
+    },
+    {
+      "id": "noun_muis",
+      "category": "noun",
+      "article": "de",
+      "dutch": "muis",
+      "english": "mouse"
+    },
+    {
+      "id": "noun_museum",
+      "category": "noun",
+      "article": "het",
+      "dutch": "museum",
+      "english": "museum"
+    },
+    {
+      "id": "noun_musicus",
+      "category": "noun",
+      "article": "de",
+      "dutch": "musicus",
+      "english": "musician"
+    },
+    {
+      "id": "noun_muziek",
+      "category": "noun",
+      "article": "de",
+      "dutch": "muziek",
+      "english": "music"
+    },
+    {
+      "id": "noun_nacht",
+      "category": "noun",
+      "article": "de",
+      "dutch": "nacht",
+      "english": "night"
+    },
+    {
+      "id": "noun_naam",
+      "category": "noun",
+      "article": "de",
+      "dutch": "naam",
+      "english": "name"
+    },
+    {
+      "id": "noun_neus",
+      "category": "noun",
+      "article": "de",
+      "dutch": "neus",
+      "english": "nose"
+    },
+    {
+      "id": "noun_neushoorn",
+      "category": "noun",
+      "article": "de",
+      "dutch": "neushoorn",
+      "english": "rhinoceros"
+    },
+    {
+      "id": "noun_niveau",
+      "category": "noun",
+      "article": "het",
+      "dutch": "niveau",
+      "english": "level"
+    },
+    {
+      "id": "noun_nummer",
+      "category": "noun",
+      "article": "het",
+      "dutch": "nummer",
+      "english": "number"
+    },
+    {
+      "id": "noun_ochtend",
+      "category": "noun",
+      "article": "de",
+      "dutch": "ochtend",
+      "english": "morning"
+    },
+    {
+      "id": "noun_oefening",
+      "category": "noun",
+      "article": "de",
+      "dutch": "oefening",
+      "english": "exercise"
+    },
+    {
+      "id": "noun_olifant",
+      "category": "noun",
+      "article": "de",
+      "dutch": "olifant",
+      "english": "elephant"
+    },
+    {
+      "id": "noun_omelet",
+      "category": "noun",
+      "article": "de",
+      "dutch": "omelet",
+      "english": "omelet"
+    },
+    {
+      "id": "noun_ondergoed",
+      "category": "noun",
+      "article": "het",
+      "dutch": "ondergoed",
+      "english": "underwear"
+    },
+    {
+      "id": "noun_onweer",
+      "category": "noun",
+      "article": "het",
+      "dutch": "onweer",
+      "english": "thunderstorm"
+    },
+    {
+      "id": "noun_oog",
+      "category": "noun",
+      "article": "het",
+      "dutch": "oog",
+      "english": "eye"
+    },
+    {
+      "id": "noun_oor",
+      "category": "noun",
+      "article": "het",
+      "dutch": "oor",
+      "english": "ear"
+    },
+    {
+      "id": "noun_oranje",
+      "category": "noun",
+      "article": "het",
+      "dutch": "oranje",
+      "english": "orange"
+    },
+    {
+      "id": "noun_orkest",
+      "category": "noun",
+      "article": "het",
+      "dutch": "orkest",
+      "english": "orchestra"
+    },
+    {
+      "id": "noun_ouder",
+      "category": "noun",
+      "article": "de",
+      "dutch": "ouder",
+      "english": "parent"
+    },
+    {
+      "id": "noun_paard",
+      "category": "noun",
+      "article": "het",
+      "dutch": "paard",
+      "english": "horse"
+    },
+    {
+      "id": "noun_paarse",
+      "category": "noun",
+      "article": "de",
+      "dutch": "paarse",
+      "english": "purple"
+    },
+    {
+      "id": "noun_pad",
+      "category": "noun",
+      "article": "de",
+      "dutch": "pad",
+      "english": "toad"
+    },
+    {
+      "id": "noun_pad",
+      "category": "noun",
+      "article": "het",
+      "dutch": "pad",
+      "english": "path"
+    },
+    {
+      "id": "noun_pagina",
+      "category": "noun",
+      "article": "de",
+      "dutch": "pagina",
+      "english": "page"
+    },
+    {
+      "id": "noun_pak",
+      "category": "noun",
+      "article": "het",
+      "dutch": "pak",
+      "english": "suit"
+    },
+    {
+      "id": "noun_pakje",
+      "category": "noun",
+      "article": "het",
+      "dutch": "pakje",
+      "english": "package"
+    },
+    {
+      "id": "noun_pakket",
+      "category": "noun",
+      "article": "de",
+      "dutch": "pakket",
+      "english": "package, packet"
+    },
+    {
+      "id": "noun_papier",
+      "category": "noun",
+      "article": "het",
+      "dutch": "papier",
+      "english": "paper"
+    },
+    {
+      "id": "noun_paraplu",
+      "category": "noun",
+      "article": "de",
+      "dutch": "paraplu",
+      "english": "umbrella"
+    },
+    {
+      "id": "noun_park",
+      "category": "noun",
+      "article": "het",
+      "dutch": "park",
+      "english": "park"
+    },
+    {
+      "id": "noun_pauze",
+      "category": "noun",
+      "article": "de",
+      "dutch": "pauze",
+      "english": "break, pause"
+    },
+    {
+      "id": "noun_pen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "pen",
+      "english": "pencil"
+    },
+    {
+      "id": "noun_peper",
+      "category": "noun",
+      "article": "de",
+      "dutch": "peper",
+      "english": "pepper"
+    },
+    {
+      "id": "noun_persoon",
+      "category": "noun",
+      "article": "de",
+      "dutch": "persoon",
+      "english": "person"
+    },
+    {
+      "id": "noun_pet",
+      "category": "noun",
+      "article": "de",
+      "dutch": "pet",
+      "english": "cap"
+    },
+    {
+      "id": "noun_plaats",
+      "category": "noun",
+      "article": "de",
+      "dutch": "plaats",
+      "english": "place"
+    },
+    {
+      "id": "noun_podium",
+      "category": "noun",
+      "article": "het",
+      "dutch": "podium",
+      "english": "stage"
+    },
+    {
+      "id": "noun_politicus",
+      "category": "noun",
+      "article": "de",
+      "dutch": "politicus",
+      "english": "politician"
+    },
+    {
+      "id": "noun_politie",
+      "category": "noun",
+      "article": "de",
+      "dutch": "politie",
+      "english": "police"
+    },
+    {
+      "id": "noun_pop",
+      "category": "noun",
+      "article": "de",
+      "dutch": "pop",
+      "english": "doll"
+    },
+    {
+      "id": "noun_prins",
+      "category": "noun",
+      "article": "de",
+      "dutch": "prins",
+      "english": "prince"
+    },
+    {
+      "id": "noun_prinses",
+      "category": "noun",
+      "article": "de",
+      "dutch": "prinses",
+      "english": "princess"
+    },
+    {
+      "id": "noun_provincie",
+      "category": "noun",
+      "article": "de",
+      "dutch": "provincie",
+      "english": "province"
+    },
+    {
+      "id": "noun_raaf",
+      "category": "noun",
+      "article": "de",
+      "dutch": "raaf",
+      "english": "raven"
+    },
+    {
+      "id": "noun_raam",
+      "category": "noun",
+      "article": "het",
+      "dutch": "raam",
+      "english": "window"
+    },
+    {
+      "id": "noun_rechter",
+      "category": "noun",
+      "article": "de",
+      "dutch": "rechter",
+      "english": "judge"
+    },
+    {
+      "id": "noun_reden",
+      "category": "noun",
+      "article": "de",
+      "dutch": "reden",
+      "english": "reason"
+    },
+    {
+      "id": "noun_regel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "regel",
+      "english": "rule"
+    },
+    {
+      "id": "noun_regen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "regen",
+      "english": "rain"
+    },
+    {
+      "id": "noun_rekening",
+      "category": "noun",
+      "article": "de",
+      "dutch": "rekening",
+      "english": "bill"
+    },
+    {
+      "id": "noun_resultaat",
+      "category": "noun",
+      "article": "het",
+      "dutch": "resultaat",
+      "english": "result"
+    },
+    {
+      "id": "noun_richting",
+      "category": "noun",
+      "article": "de",
+      "dutch": "richting",
+      "english": "direction"
+    },
+    {
+      "id": "noun_rijst",
+      "category": "noun",
+      "article": "de",
+      "dutch": "rijst",
+      "english": "rice"
+    },
+    {
+      "id": "noun_ring",
+      "category": "noun",
+      "article": "de",
+      "dutch": "ring",
+      "english": "ring"
+    },
+    {
+      "id": "noun_rode",
+      "category": "noun",
+      "article": "het",
+      "dutch": "rode",
+      "english": "red"
+    },
+    {
+      "id": "noun_rok",
+      "category": "noun",
+      "article": "de",
+      "dutch": "rok",
+      "english": "skirt"
+    },
+    {
+      "id": "noun_rose",
+      "category": "noun",
+      "article": "de",
+      "dutch": "rose",
+      "english": "rose"
+    },
+    {
+      "id": "noun_roze",
+      "category": "noun",
+      "article": "de",
+      "dutch": "roze",
+      "english": "pink"
+    },
+    {
+      "id": "noun_rund",
+      "category": "noun",
+      "article": "het",
+      "dutch": "rund",
+      "english": "cow, bovine, idiot"
+    },
+    {
+      "id": "noun_sap",
+      "category": "noun",
+      "article": "het",
+      "dutch": "sap",
+      "english": "juice"
+    },
+    {
+      "id": "noun_schaap",
+      "category": "noun",
+      "article": "het",
+      "dutch": "schaap",
+      "english": "sheep"
+    },
+    {
+      "id": "noun_schaar",
+      "category": "noun",
+      "article": "de",
+      "dutch": "schaar",
+      "english": "scissors"
+    },
+    {
+      "id": "noun_schat",
+      "category": "noun",
+      "article": "de",
+      "dutch": "schat",
+      "english": "treasure, honey, darling"
+    },
+    {
+      "id": "noun_schijn",
+      "category": "noun",
+      "article": "de",
+      "dutch": "schijn",
+      "english": "shine"
+    },
+    {
+      "id": "noun_schild",
+      "category": "noun",
+      "article": "het",
+      "dutch": "schild",
+      "english": "shield"
+    },
+    {
+      "id": "noun_schilderij",
+      "category": "noun",
+      "article": "het",
+      "dutch": "schilderij",
+      "english": "painting"
+    },
+    {
+      "id": "noun_schildpad",
+      "category": "noun",
+      "article": "de",
+      "dutch": "schildpad",
+      "english": "turtle"
+    },
+    {
+      "id": "noun_schip",
+      "category": "noun",
+      "article": "het",
+      "dutch": "schip",
+      "english": "ship"
+    },
+    {
+      "id": "noun_schoen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "schoen",
+      "english": "shoe"
+    },
+    {
+      "id": "noun_school",
+      "category": "noun",
+      "article": "de",
+      "dutch": "school",
+      "english": "school"
+    },
+    {
+      "id": "noun_schrijver",
+      "category": "noun",
+      "article": "de",
+      "dutch": "schrijver",
+      "english": "writer"
+    },
+    {
+      "id": "noun_schuur",
+      "category": "noun",
+      "article": "de",
+      "dutch": "schuur",
+      "english": "daily use: bike shed, etymological: barn (ahir, ambar),"
+    },
+    {
+      "id": "noun_sinaasappel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "sinaasappel",
+      "english": "orange"
+    },
+    {
+      "id": "noun_slapen",
+      "category": "noun",
+      "article": "het",
+      "dutch": "slapen",
+      "english": "sleeping"
+    },
+    {
+      "id": "noun_sleutel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "sleutel",
+      "english": "key"
+    },
+    {
+      "id": "noun_slot",
+      "category": "noun",
+      "article": "het",
+      "dutch": "slot",
+      "english": "lock"
+    },
+    {
+      "id": "noun_smartphone",
+      "category": "noun",
+      "article": "de",
+      "dutch": "smartphone",
+      "english": "smartphone"
+    },
+    {
+      "id": "noun_snoep",
+      "category": "noun",
+      "article": "het",
+      "dutch": "snoep",
+      "english": "candy (also de snoep het/de snoep)"
+    },
+    {
+      "id": "noun_soep",
+      "category": "noun",
+      "article": "de",
+      "dutch": "soep",
+      "english": "soup"
+    },
+    {
+      "id": "noun_sok",
+      "category": "noun",
+      "article": "de",
+      "dutch": "sok",
+      "english": "sock"
+    },
+    {
+      "id": "noun_speeddate",
+      "category": "noun",
+      "article": "de",
+      "dutch": "speeddate",
+      "english": "speeddate"
+    },
+    {
+      "id": "noun_spel",
+      "category": "noun",
+      "article": "het",
+      "dutch": "spel",
+      "english": "game, playing (musical)"
+    },
+    {
+      "id": "noun_spelletje",
+      "category": "noun",
+      "article": "het",
+      "dutch": "spelletje",
+      "english": "game"
+    },
+    {
+      "id": "noun_spin",
+      "category": "noun",
+      "article": "de",
+      "dutch": "spin",
+      "english": "spider"
+    },
+    {
+      "id": "noun_sportschool",
+      "category": "noun",
+      "article": "de",
+      "dutch": "sportschool",
+      "english": "gym"
+    },
+    {
+      "id": "noun_spul",
+      "category": "noun",
+      "article": "het",
+      "dutch": "spul",
+      "english": "stuff, junk"
+    },
+    {
+      "id": "noun_spullen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "spullen",
+      "english": "stuff(plural)"
+    },
+    {
+      "id": "noun_staal",
+      "category": "noun",
+      "article": "het",
+      "dutch": "staal",
+      "english": "steel"
+    },
+    {
+      "id": "noun_staart",
+      "category": "noun",
+      "article": "de",
+      "dutch": "staart",
+      "english": "tail"
+    },
+    {
+      "id": "noun_stad",
+      "category": "noun",
+      "article": "de",
+      "dutch": "stad",
+      "english": "city"
+    },
+    {
+      "id": "noun_stamppot",
+      "category": "noun",
+      "article": "de",
+      "dutch": "stamppot",
+      "english": "stamppot (dutch food)"
+    },
+    {
+      "id": "noun_stem",
+      "category": "noun",
+      "article": "de",
+      "dutch": "stem",
+      "english": "voice"
+    },
+    {
+      "id": "noun_steen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "steen",
+      "english": "stone"
+    },
+    {
+      "id": "noun_stoel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "stoel",
+      "english": "chair"
+    },
+    {
+      "id": "noun_straat",
+      "category": "noun",
+      "article": "de",
+      "dutch": "straat",
+      "english": "street"
+    },
+    {
+      "id": "noun_straf",
+      "category": "noun",
+      "article": "de",
+      "dutch": "straf",
+      "english": "punishment"
+    },
+    {
+      "id": "noun_student",
+      "category": "noun",
+      "article": "de",
+      "dutch": "student",
+      "english": "student"
+    },
+    {
+      "id": "noun_suiker",
+      "category": "noun",
+      "article": "de",
+      "dutch": "suiker",
+      "english": "sugar"
+    },
+    {
+      "id": "noun_supermarkt",
+      "category": "noun",
+      "article": "de",
+      "dutch": "supermarkt",
+      "english": "supermarket"
+    },
+    {
+      "id": "noun_taal",
+      "category": "noun",
+      "article": "de",
+      "dutch": "taal",
+      "english": "language"
+    },
+    {
+      "id": "noun_taart",
+      "category": "noun",
+      "article": "de",
+      "dutch": "taart",
+      "english": "pie"
+    },
+    {
+      "id": "noun_tablet",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tablet",
+      "english": "tablet (pad)"
+    },
+    {
+      "id": "noun_tafel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tafel",
+      "english": "table"
+    },
+    {
+      "id": "noun_tand",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tand",
+      "english": "tooth"
+    },
+    {
+      "id": "noun_tandarts",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tandarts",
+      "english": "dentist"
+    },
+    {
+      "id": "noun_tarwe",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tarwe",
+      "english": "wheat"
+    },
+    {
+      "id": "noun_tas",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tas",
+      "english": "bag"
+    },
+    {
+      "id": "noun_taxi",
+      "category": "noun",
+      "article": "de",
+      "dutch": "taxi",
+      "english": "taxi"
+    },
+    {
+      "id": "noun_teken",
+      "category": "noun",
+      "article": "het",
+      "dutch": "teken",
+      "english": "sign"
+    },
+    {
+      "id": "noun_tekening",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tekening",
+      "english": "drawing"
+    },
+    {
+      "id": "noun_tekst",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tekst",
+      "english": "text"
+    },
+    {
+      "id": "noun_telefoon",
+      "category": "noun",
+      "article": "de",
+      "dutch": "telefoon",
+      "english": "telephone"
+    },
+    {
+      "id": "noun_televisie",
+      "category": "noun",
+      "article": "de",
+      "dutch": "televisie",
+      "english": "television"
+    },
+    {
+      "id": "noun_theater",
+      "category": "noun",
+      "article": "het",
+      "dutch": "theater",
+      "english": "theatre"
+    },
+    {
+      "id": "noun_thee",
+      "category": "noun",
+      "article": "de",
+      "dutch": "thee",
+      "english": "tea"
+    },
+    {
+      "id": "noun_tijd",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tijd",
+      "english": "time"
+    },
+    {
+      "id": "noun_tijdschrift",
+      "category": "noun",
+      "article": "het",
+      "dutch": "tijdschrift",
+      "english": "magazine, journal"
+    },
+    {
+      "id": "noun_toets",
+      "category": "noun",
+      "article": "de",
+      "dutch": "toets",
+      "english": "button, key, test"
+    },
+    {
+      "id": "noun_tomaat",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tomaat",
+      "english": "tomato"
+    },
+    {
+      "id": "noun_trein",
+      "category": "noun",
+      "article": "de",
+      "dutch": "trein",
+      "english": "train"
+    },
+    {
+      "id": "noun_trui",
+      "category": "noun",
+      "article": "de",
+      "dutch": "trui",
+      "english": "sweater"
+    },
+    {
+      "id": "noun_tuin",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tuin",
+      "english": "garden"
+    },
+    {
+      "id": "noun_tv",
+      "category": "noun",
+      "article": "de",
+      "dutch": "tv",
+      "english": "tv"
+    },
+    {
+      "id": "noun_uil",
+      "category": "noun",
+      "article": "de",
+      "dutch": "uil",
+      "english": "owl"
+    },
+    {
+      "id": "noun_uitroep",
+      "category": "noun",
+      "article": "de",
+      "dutch": "uitroep",
+      "english": "exclamation"
+    },
+    {
+      "id": "noun_uitroepteken",
+      "category": "noun",
+      "article": "het",
+      "dutch": "uitroepteken",
+      "english": "exclamation point"
+    },
+    {
+      "id": "noun_universiteit",
+      "category": "noun",
+      "article": "de",
+      "dutch": "universiteit",
+      "english": "university"
+    },
+    {
+      "id": "noun_uur",
+      "category": "noun",
+      "article": "het",
+      "dutch": "uur",
+      "english": "hour"
+    },
+    {
+      "id": "noun_vaas",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vaas",
+      "english": "vase"
+    },
+    {
+      "id": "noun_vakantie",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vakantie",
+      "english": "vacation, holidays"
+    },
+    {
+      "id": "noun_varken",
+      "category": "noun",
+      "article": "het",
+      "dutch": "varken",
+      "english": "pig"
+    },
+    {
+      "id": "noun_vegetarir",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vegetariër",
+      "english": "vegetarian"
+    },
+    {
+      "id": "noun_verenigd_koninkrijk",
+      "category": "noun",
+      "article": "het",
+      "dutch": "Verenigd Koninkrijk",
+      "english": "the UK"
+    },
+    {
+      "id": "noun_verenigde_staten",
+      "category": "noun",
+      "article": "de",
+      "dutch": "Verenigde Staten",
+      "english": "the USA"
+    },
+    {
+      "id": "noun_vergelijking",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vergelijking",
+      "english": "comparison"
+    },
+    {
+      "id": "noun_verhaal",
+      "category": "noun",
+      "article": "het",
+      "dutch": "verhaal",
+      "english": "story"
+    },
+    {
+      "id": "noun_verjaardag",
+      "category": "noun",
+      "article": "de",
+      "dutch": "verjaardag",
+      "english": "birthday"
+    },
+    {
+      "id": "noun_verpleegkundige",
+      "category": "noun",
+      "article": "de",
+      "dutch": "verpleegkundige",
+      "english": "nurse"
+    },
+    {
+      "id": "noun_verrassing",
+      "category": "noun",
+      "article": "de",
+      "dutch": "verrassing",
+      "english": "surprise"
+    },
+    {
+      "id": "noun_vis",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vis",
+      "english": "fish"
+    },
+    {
+      "id": "noun_vlag",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vlag",
+      "english": "flag"
+    },
+    {
+      "id": "noun_vlees",
+      "category": "noun",
+      "article": "het",
+      "dutch": "vlees",
+      "english": "meat"
+    },
+    {
+      "id": "noun_voet",
+      "category": "noun",
+      "article": "de",
+      "dutch": "voet",
+      "english": "foot"
+    },
+    {
+      "id": "noun_vogel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vogel",
+      "english": "bird"
+    },
+    {
+      "id": "noun_volk",
+      "category": "noun",
+      "article": "het",
+      "dutch": "volk",
+      "english": "folk, people"
+    },
+    {
+      "id": "noun_volwassene",
+      "category": "noun",
+      "article": "de",
+      "dutch": "volwassene",
+      "english": "adult"
+    },
+    {
+      "id": "noun_voornaam",
+      "category": "noun",
+      "article": "de",
+      "dutch": "voornaam",
+      "english": "first name"
+    },
+    {
+      "id": "noun_voorstel",
+      "category": "noun",
+      "article": "het",
+      "dutch": "voorstel",
+      "english": "proposal"
+    },
+    {
+      "id": "noun_vork",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vork",
+      "english": "fork"
+    },
+    {
+      "id": "noun_vraag",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vraag",
+      "english": "question"
+    },
+    {
+      "id": "noun_vrachtwagen",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vrachtwagen",
+      "english": "truck"
+    },
+    {
+      "id": "noun_vriend",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vriend",
+      "english": "friend"
+    },
+    {
+      "id": "noun_vriendin",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vriendin",
+      "english": "girl friend"
+    },
+    {
+      "id": "noun_vrouw",
+      "category": "noun",
+      "article": "de",
+      "dutch": "vrouw",
+      "english": "woman"
+    },
+    {
+      "id": "noun_waarschijnlijkheid",
+      "category": "noun",
+      "article": "de",
+      "dutch": "waarschijnlijkheid",
+      "english": "probability"
+    },
+    {
+      "id": "noun_water",
+      "category": "noun",
+      "article": "het",
+      "dutch": "water",
+      "english": "water"
+    },
+    {
+      "id": "noun_week",
+      "category": "noun",
+      "article": "de",
+      "dutch": "week",
+      "english": "week"
+    },
+    {
+      "id": "noun_weer",
+      "category": "noun",
+      "article": "het",
+      "dutch": "weer",
+      "english": "weather"
+    },
+    {
+      "id": "noun_was",
+      "category": "noun",
+      "article": "de",
+      "dutch": "was",
+      "english": "laundry"
+    },
+    {
+      "id": "noun_waslijn",
+      "category": "noun",
+      "article": "de",
+      "dutch": "waslijn",
+      "english": "clothes line"
+    },
+    {
+      "id": "noun_weg",
+      "category": "noun",
+      "article": "de",
+      "dutch": "weg",
+      "english": "way"
+    },
+    {
+      "id": "noun_wei",
+      "category": "noun",
+      "article": "de",
+      "dutch": "wei",
+      "english": "pasture, meadow (otlak), grass"
+    },
+    {
+      "id": "noun_weekend",
+      "category": "noun",
+      "article": "het",
+      "dutch": "weekend",
+      "english": "weekend"
+    },
+    {
+      "id": "noun_wereld",
+      "category": "noun",
+      "article": "de",
+      "dutch": "wereld",
+      "english": "world"
+    },
+    {
+      "id": "noun_werk",
+      "category": "noun",
+      "article": "het",
+      "dutch": "werk",
+      "english": "work"
+    },
+    {
+      "id": "noun_wijn",
+      "category": "noun",
+      "article": "de",
+      "dutch": "wijn",
+      "english": "wine"
+    },
+    {
+      "id": "noun_winkel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "winkel",
+      "english": "shop"
+    },
+    {
+      "id": "noun_winter",
+      "category": "noun",
+      "article": "de",
+      "dutch": "winter",
+      "english": "winter"
+    },
+    {
+      "id": "noun_witte",
+      "category": "noun",
+      "article": "de",
+      "dutch": "witte",
+      "english": "white"
+    },
+    {
+      "id": "noun_wol",
+      "category": "noun",
+      "article": "de",
+      "dutch": "wol",
+      "english": "wool"
+    },
+    {
+      "id": "noun_wolf",
+      "category": "noun",
+      "article": "de",
+      "dutch": "wolf",
+      "english": "wolf"
+    },
+    {
+      "id": "noun_woning",
+      "category": "noun",
+      "article": "de",
+      "dutch": "woning",
+      "english": "dwelling, home, flat"
+    },
+    {
+      "id": "noun_woonkamer",
+      "category": "noun",
+      "article": "de",
+      "dutch": "woonkamer",
+      "english": "living room"
+    },
+    {
+      "id": "noun_woord",
+      "category": "noun",
+      "article": "het",
+      "dutch": "woord",
+      "english": "word"
+    },
+    {
+      "id": "noun_workshop",
+      "category": "noun",
+      "article": "de",
+      "dutch": "workshop",
+      "english": "workshop"
+    },
+    {
+      "id": "noun_wortel",
+      "category": "noun",
+      "article": "de",
+      "dutch": "wortel",
+      "english": "carrot"
+    },
+    {
+      "id": "noun_zand",
+      "category": "noun",
+      "article": "het",
+      "dutch": "zand",
+      "english": "sand"
+    },
+    {
+      "id": "noun_zanger",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zanger",
+      "english": "singer"
+    },
+    {
+      "id": "noun_zangeres",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zangeres",
+      "english": "singer"
+    },
+    {
+      "id": "noun_zee",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zee",
+      "english": "sea"
+    },
+    {
+      "id": "noun_zeeniveau",
+      "category": "noun",
+      "article": "het",
+      "dutch": "zeeniveau",
+      "english": "sea level"
+    },
+    {
+      "id": "noun_ziekenhuis",
+      "category": "noun",
+      "article": "het",
+      "dutch": "ziekenhuis",
+      "english": "hospital"
+    },
+    {
+      "id": "noun_zijde",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zijde",
+      "english": "silk"
+    },
+    {
+      "id": "noun_zilver",
+      "category": "noun",
+      "article": "het",
+      "dutch": "zilver",
+      "english": "silver"
+    },
+    {
+      "id": "noun_zin",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zin",
+      "english": "sentence"
+    },
+    {
+      "id": "noun_zomer",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zomer",
+      "english": "summer"
+    },
+    {
+      "id": "noun_zon",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zon",
+      "english": "sun"
+    },
+    {
+      "id": "noun_zoon",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zoon",
+      "english": "son"
+    },
+    {
+      "id": "noun_zonneschijn",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zonneschijn",
+      "english": "sunshine"
+    },
+    {
+      "id": "noun_zout",
+      "category": "noun",
+      "article": "het",
+      "dutch": "zout",
+      "english": "salt"
+    },
+    {
+      "id": "noun_zus",
+      "category": "noun",
+      "article": "de",
+      "dutch": "zus",
+      "english": "sister"
+    },
+    {
+      "id": "noun_zwart",
+      "category": "noun",
+      "article": "het",
+      "dutch": "zwart",
+      "english": "black"
+    }
+  ],
+  "verbs": [
+    {
+      "id": "verb_aankomen",
+      "category": "verb",
+      "dutch": "aankomen",
+      "infinitive": "aankomen",
+      "presentPerfect": "ben aangekomen",
+      "pastSingular": "kwam aan",
+      "pastPlural": "kwamen aan",
+      "english": "to arrive"
+    },
+    {
+      "id": "verb_aanvaarden",
+      "category": "verb",
+      "dutch": "aanvaarden",
+      "infinitive": "aanvaarden",
+      "presentPerfect": "heb aanvaard",
+      "pastSingular": "aanvaardde",
+      "pastPlural": "aanvaardden",
+      "english": "to accept (for ex: accepting excuses)"
+    },
+    {
+      "id": "verb_achtervolgen",
+      "category": "verb",
+      "dutch": "achtervolgen",
+      "infinitive": "achtervolgen",
+      "presentPerfect": "heb achtervolgd",
+      "pastSingular": "achtervolgde",
+      "pastPlural": "achtervolgden",
+      "english": "to chase, to pursue"
+    },
+    {
+      "id": "verb_afmaken",
+      "category": "verb",
+      "dutch": "afmaken",
+      "infinitive": "afmaken",
+      "presentPerfect": "heb afgemaakt",
+      "pastSingular": "maakte af",
+      "pastPlural": "maakten af",
+      "english": "to finish up, to finish off"
+    },
+    {
+      "id": "verb_afspreken",
+      "category": "verb",
+      "dutch": "afspreken",
+      "infinitive": "afspreken",
+      "presentPerfect": "heb afgesproken",
+      "pastSingular": "sprak af",
+      "pastPlural": "spraken af",
+      "english": "to arrange"
+    },
+    {
+      "id": "verb_afwassen",
+      "category": "verb",
+      "dutch": "afwassen",
+      "infinitive": "afwassen",
+      "presentPerfect": "heb afgewassen",
+      "pastSingular": "waste af",
+      "pastPlural": "wasten af",
+      "english": "to wash off the dishes"
+    },
+    {
+      "id": "verb_antwoorden",
+      "category": "verb",
+      "dutch": "antwoorden",
+      "infinitive": "antwoorden",
+      "presentPerfect": "heb geantwoord",
+      "pastSingular": "antwoordde",
+      "pastPlural": "antwoordden",
+      "english": "to answer"
+    },
+    {
+      "id": "verb_autorijden",
+      "category": "verb",
+      "dutch": "autorijden",
+      "infinitive": "autorijden",
+      "presentPerfect": "heb autogereden",
+      "pastSingular": "reed auto",
+      "pastPlural": "reden auto",
+      "english": "to drive car"
+    },
+    {
+      "id": "verb_bakken",
+      "category": "verb",
+      "dutch": "bakken",
+      "infinitive": "bakken",
+      "presentPerfect": "heb gebakken",
+      "pastSingular": "bakte",
+      "pastPlural": "bakten",
+      "english": "to bake"
+    },
+    {
+      "id": "verb_beginnen",
+      "category": "verb",
+      "dutch": "beginnen",
+      "infinitive": "beginnen",
+      "presentPerfect": "ben begonnen",
+      "pastSingular": "begon",
+      "pastPlural": "begonnen",
+      "english": "to begin"
+    },
+    {
+      "id": "verb_bellen",
+      "category": "verb",
+      "dutch": "bellen",
+      "infinitive": "bellen",
+      "presentPerfect": "heb gebeld",
+      "pastSingular": "belde",
+      "pastPlural": "belden",
+      "english": "to call (by phone), to bell"
+    },
+    {
+      "id": "verb_beloven",
+      "category": "verb",
+      "dutch": "beloven",
+      "infinitive": "beloven",
+      "presentPerfect": "heb beloofd",
+      "pastSingular": "beloofde",
+      "pastPlural": "beloofden",
+      "english": "to promise"
+    },
+    {
+      "id": "verb_bestaan",
+      "category": "verb",
+      "dutch": "bestaan",
+      "infinitive": "bestaan",
+      "presentPerfect": "heb bestaan",
+      "pastSingular": "bestond",
+      "pastPlural": "bestonden",
+      "english": "to exist"
+    },
+    {
+      "id": "verb_bestellen",
+      "category": "verb",
+      "dutch": "bestellen",
+      "infinitive": "bestellen",
+      "presentPerfect": "heb besteld",
+      "pastSingular": "bestelde",
+      "pastPlural": "bestelden",
+      "english": "to order"
+    },
+    {
+      "id": "verb_betalen",
+      "category": "verb",
+      "dutch": "betalen",
+      "infinitive": "betalen",
+      "presentPerfect": "heb betaald",
+      "pastSingular": "betaalde",
+      "pastPlural": "betaalden",
+      "english": "to pay"
+    },
+    {
+      "id": "verb_bezoeken",
+      "category": "verb",
+      "dutch": "bezoeken",
+      "infinitive": "bezoeken",
+      "presentPerfect": "heb bezocht",
+      "pastSingular": "bezocht",
+      "pastPlural": "bezochten",
+      "english": "to visit"
+    },
+    {
+      "id": "verb_bezorgen",
+      "category": "verb",
+      "dutch": "bezorgen",
+      "infinitive": "bezorgen",
+      "presentPerfect": "heb bezorgd",
+      "pastSingular": "bezorgde",
+      "pastPlural": "bezorgden",
+      "english": "to deliver"
+    },
+    {
+      "id": "verb_blijven",
+      "category": "verb",
+      "dutch": "blijven",
+      "infinitive": "blijven",
+      "presentPerfect": "ben gebleven",
+      "pastSingular": "bleef",
+      "pastPlural": "bleven",
+      "english": "to stay, to remain"
+    },
+    {
+      "id": "verb_boeken",
+      "category": "verb",
+      "dutch": "boeken",
+      "infinitive": "boeken",
+      "presentPerfect": "heb geboekt",
+      "pastSingular": "boekte",
+      "pastPlural": "boekten",
+      "english": "to book, to reserve"
+    },
+    {
+      "id": "verb_breken",
+      "category": "verb",
+      "dutch": "breken",
+      "infinitive": "breken",
+      "presentPerfect": "heb gebroken",
+      "pastSingular": "brak",
+      "pastPlural": "braken",
+      "english": "to break"
+    },
+    {
+      "id": "verb_brengen",
+      "category": "verb",
+      "dutch": "brengen",
+      "infinitive": "brengen",
+      "presentPerfect": "heb gebracht",
+      "pastSingular": "bracht",
+      "pastPlural": "brachten",
+      "english": "to bring"
+    },
+    {
+      "id": "verb_dansen",
+      "category": "verb",
+      "dutch": "dansen",
+      "infinitive": "dansen",
+      "presentPerfect": "heb gedanst",
+      "pastSingular": "danste",
+      "pastPlural": "dansten",
+      "english": "to dance"
+    },
+    {
+      "id": "verb_delen",
+      "category": "verb",
+      "dutch": "delen",
+      "infinitive": "delen",
+      "presentPerfect": "heb gedeeld",
+      "pastSingular": "deelde",
+      "pastPlural": "deelden",
+      "english": "to share"
+    },
+    {
+      "id": "verb_denken",
+      "category": "verb",
+      "dutch": "denken",
+      "infinitive": "denken",
+      "presentPerfect": "heb gedacht",
+      "pastSingular": "dacht",
+      "pastPlural": "dachten",
+      "english": "to think"
+    },
+    {
+      "id": "verb_dichtdoen",
+      "category": "verb",
+      "dutch": "dichtdoen",
+      "infinitive": "dichtdoen",
+      "presentPerfect": "heb dichtgedaan",
+      "pastSingular": "deed dicht",
+      "pastPlural": "deden dicht",
+      "english": "to close"
+    },
+    {
+      "id": "verb_doen",
+      "category": "verb",
+      "dutch": "doen",
+      "infinitive": "doen",
+      "presentPerfect": "heb gedaan",
+      "pastSingular": "deed",
+      "pastPlural": "deden",
+      "english": "to do"
+    },
+    {
+      "id": "verb_doorlopen",
+      "category": "verb",
+      "dutch": "doorlopen",
+      "infinitive": "doorlopen",
+      "presentPerfect": "heb doorgelopen",
+      "pastSingular": "liep door",
+      "pastPlural": "liepen door",
+      "english": "to keep going, to move on, to continue"
+    },
+    {
+      "id": "verb_dragen",
+      "category": "verb",
+      "dutch": "dragen",
+      "infinitive": "dragen",
+      "presentPerfect": "heb gedragen",
+      "pastSingular": "droeg",
+      "pastPlural": "droegen",
+      "english": "to wear, to carry"
+    },
+    {
+      "id": "verb_drinken",
+      "category": "verb",
+      "dutch": "drinken",
+      "infinitive": "drinken",
+      "presentPerfect": "heb gedronken",
+      "pastSingular": "dronk",
+      "pastPlural": "dronken",
+      "english": "to drink"
+    },
+    {
+      "id": "verb_drogen",
+      "category": "verb",
+      "dutch": "drogen",
+      "infinitive": "drogen",
+      "presentPerfect": "heb gedroogd",
+      "pastSingular": "droogde",
+      "pastPlural": "droogden",
+      "english": "to dry"
+    },
+    {
+      "id": "verb_duwen",
+      "category": "verb",
+      "dutch": "duwen",
+      "infinitive": "duwen",
+      "presentPerfect": "heb geduwd",
+      "pastSingular": "duwde",
+      "pastPlural": "duwden",
+      "english": "to push"
+    },
+    {
+      "id": "verb_eten",
+      "category": "verb",
+      "dutch": "eten",
+      "infinitive": "eten",
+      "presentPerfect": "heb gegeten",
+      "pastSingular": "at",
+      "pastPlural": "aten",
+      "english": "to eat"
+    },
+    {
+      "id": "verb_feliciteren",
+      "category": "verb",
+      "dutch": "feliciteren",
+      "infinitive": "feliciteren",
+      "presentPerfect": "heb gefeliciteerd",
+      "pastSingular": "feliciteerde",
+      "pastPlural": "feliciteerden",
+      "english": "to congragulate"
+    },
+    {
+      "id": "verb_fietsen",
+      "category": "verb",
+      "dutch": "fietsen",
+      "infinitive": "fietsen",
+      "presentPerfect": "heb gefietst",
+      "pastSingular": "fietste",
+      "pastPlural": "fietsten",
+      "english": "to bike"
+    },
+    {
+      "id": "verb_gaan",
+      "category": "verb",
+      "dutch": "gaan",
+      "infinitive": "gaan",
+      "presentPerfect": "ben gegaan",
+      "pastSingular": "ging",
+      "pastPlural": "gingen",
+      "english": "to go"
+    },
+    {
+      "id": "verb_gebruiken",
+      "category": "verb",
+      "dutch": "gebruiken",
+      "infinitive": "gebruiken",
+      "presentPerfect": "heb gebruikt",
+      "pastSingular": "gebruikte",
+      "pastPlural": "gebruikten",
+      "english": "to use"
+    },
+    {
+      "id": "verb_geloven",
+      "category": "verb",
+      "dutch": "geloven",
+      "infinitive": "geloven",
+      "presentPerfect": "heb geloofd",
+      "pastSingular": "geloofde",
+      "pastPlural": "geloofden",
+      "english": "to believe"
+    },
+    {
+      "id": "verb_genieten",
+      "category": "verb",
+      "dutch": "genieten",
+      "infinitive": "genieten",
+      "presentPerfect": "heb genieten",
+      "pastSingular": "genoot",
+      "pastPlural": "genoten",
+      "english": "to enjoy"
+    },
+    {
+      "id": "verb_geven",
+      "category": "verb",
+      "dutch": "geven",
+      "infinitive": "geven",
+      "presentPerfect": "heb gegeven",
+      "pastSingular": "gaf",
+      "pastPlural": "gaven",
+      "english": "to give"
+    },
+    {
+      "id": "verb_haasten",
+      "category": "verb",
+      "dutch": "haasten",
+      "infinitive": "haasten",
+      "presentPerfect": "heb gehaast",
+      "pastSingular": "haastte",
+      "pastPlural": "haastten",
+      "english": "to hurry (zich)"
+    },
+    {
+      "id": "verb_halen",
+      "category": "verb",
+      "dutch": "halen",
+      "infinitive": "halen",
+      "presentPerfect": "heb gehaald",
+      "pastSingular": "haalde",
+      "pastPlural": "haalden",
+      "english": "to fetch, to get"
+    },
+    {
+      "id": "verb_hangen",
+      "category": "verb",
+      "dutch": "hangen",
+      "infinitive": "hangen",
+      "presentPerfect": "heb gehangen",
+      "pastSingular": "hing",
+      "pastPlural": "hingen",
+      "english": "to hang"
+    },
+    {
+      "id": "verb_hebben",
+      "category": "verb",
+      "dutch": "hebben",
+      "infinitive": "hebben",
+      "presentPerfect": "heb gehad",
+      "pastSingular": "had",
+      "pastPlural": "hadden",
+      "english": "to have"
+    },
+    {
+      "id": "verb_helpen",
+      "category": "verb",
+      "dutch": "helpen",
+      "infinitive": "helpen",
+      "presentPerfect": "heb geholpen",
+      "pastSingular": "hielp",
+      "pastPlural": "hielpen",
+      "english": "to help"
+    },
+    {
+      "id": "verb_herhalen",
+      "category": "verb",
+      "dutch": "herhalen",
+      "infinitive": "herhalen",
+      "presentPerfect": "heb herhaald",
+      "pastSingular": "herhaalde",
+      "pastPlural": "herhaalden",
+      "english": "to repeat"
+    },
+    {
+      "id": "verb_herinneren",
+      "category": "verb",
+      "dutch": "herinneren",
+      "infinitive": "herinneren",
+      "presentPerfect": "heb herinnerd",
+      "pastSingular": "herinnerde",
+      "pastPlural": "herinnerden",
+      "english": "to remember (zich)"
+    },
+    {
+      "id": "verb_heten",
+      "category": "verb",
+      "dutch": "heten",
+      "infinitive": "heten",
+      "presentPerfect": "heb geheten",
+      "pastSingular": "heette",
+      "pastPlural": "heetten",
+      "english": "to be named, to be called"
+    },
+    {
+      "id": "verb_horen",
+      "category": "verb",
+      "dutch": "horen",
+      "infinitive": "horen",
+      "presentPerfect": "heb gehoord",
+      "pastSingular": "hoorde",
+      "pastPlural": "hoorden",
+      "english": "to hear"
+    },
+    {
+      "id": "verb_houden",
+      "category": "verb",
+      "dutch": "houden",
+      "infinitive": "houden",
+      "presentPerfect": "heb gehouden",
+      "pastSingular": "hield",
+      "pastPlural": "hielden",
+      "english": "to keep"
+    },
+    {
+      "id": "verb_houden_van",
+      "category": "verb",
+      "dutch": "houden van",
+      "infinitive": "houden van",
+      "presentPerfect": "heb gehouden van",
+      "pastSingular": "hield van",
+      "pastPlural": "hielden van",
+      "english": "to love"
+    },
+    {
+      "id": "verb_hopen",
+      "category": "verb",
+      "dutch": "hopen",
+      "infinitive": "hopen",
+      "presentPerfect": "heb gehoopt",
+      "pastSingular": "hoopte",
+      "pastPlural": "hoopten",
+      "english": "to hope"
+    },
+    {
+      "id": "verb_inschrijven",
+      "category": "verb",
+      "dutch": "inschrijven",
+      "infinitive": "inschrijven",
+      "presentPerfect": "heb ingeschreven",
+      "pastSingular": "schreef in",
+      "pastPlural": "schreven in",
+      "english": "to register"
+    },
+    {
+      "id": "verb_invullen",
+      "category": "verb",
+      "dutch": "invullen",
+      "infinitive": "invullen",
+      "presentPerfect": "heb ingevuld",
+      "pastSingular": "vulde in",
+      "pastPlural": "vulden in",
+      "english": "to fill in"
+    },
+    {
+      "id": "verb_kennen",
+      "category": "verb",
+      "dutch": "kennen",
+      "infinitive": "kennen",
+      "presentPerfect": "heb gekend",
+      "pastSingular": "kende",
+      "pastPlural": "kenden",
+      "english": "to know"
+    },
+    {
+      "id": "verb_kijken",
+      "category": "verb",
+      "dutch": "kijken",
+      "infinitive": "kijken",
+      "presentPerfect": "heb gekeken",
+      "pastSingular": "keek",
+      "pastPlural": "keken",
+      "english": "to look / to watch"
+    },
+    {
+      "id": "verb_koken",
+      "category": "verb",
+      "dutch": "koken",
+      "infinitive": "koken",
+      "presentPerfect": "heb gekookt",
+      "pastSingular": "kookte",
+      "pastPlural": "kookten",
+      "english": "to cook"
+    },
+    {
+      "id": "verb_komen",
+      "category": "verb",
+      "dutch": "komen",
+      "infinitive": "komen",
+      "presentPerfect": "ben gekomen",
+      "pastSingular": "kwam",
+      "pastPlural": "kwamen",
+      "english": "to come"
+    },
+    {
+      "id": "verb_kopen",
+      "category": "verb",
+      "dutch": "kopen",
+      "infinitive": "kopen",
+      "presentPerfect": "heb gekocht",
+      "pastSingular": "kocht",
+      "pastPlural": "kochten",
+      "english": "to buy"
+    },
+    {
+      "id": "verb_krijgen",
+      "category": "verb",
+      "dutch": "krijgen",
+      "infinitive": "krijgen",
+      "presentPerfect": "heb gekregen",
+      "pastSingular": "kreeg",
+      "pastPlural": "kregen",
+      "english": "to get, to receive"
+    },
+    {
+      "id": "verb_laten",
+      "category": "verb",
+      "dutch": "laten",
+      "infinitive": "laten",
+      "presentPerfect": "heb gelaten",
+      "pastSingular": "liet",
+      "pastPlural": "lieten",
+      "english": "to let"
+    },
+    {
+      "id": "verb_lenen",
+      "category": "verb",
+      "dutch": "lenen",
+      "infinitive": "lenen",
+      "presentPerfect": "heb geleend",
+      "pastSingular": "leende",
+      "pastPlural": "leenden",
+      "english": "to borrow"
+    },
+    {
+      "id": "verb_leren",
+      "category": "verb",
+      "dutch": "leren",
+      "infinitive": "leren",
+      "presentPerfect": "heb geleerd",
+      "pastSingular": "leerde",
+      "pastPlural": "leerden",
+      "english": "to learn, to teach"
+    },
+    {
+      "id": "verb_leven",
+      "category": "verb",
+      "dutch": "leven",
+      "infinitive": "leven",
+      "presentPerfect": "heb geleefd",
+      "pastSingular": "leefde",
+      "pastPlural": "leefden",
+      "english": "to live"
+    },
+    {
+      "id": "verb_lezen",
+      "category": "verb",
+      "dutch": "lezen",
+      "infinitive": "lezen",
+      "presentPerfect": "heb gelezen",
+      "pastSingular": "las",
+      "pastPlural": "lazen",
+      "english": "to read"
+    },
+    {
+      "id": "verb_liegen",
+      "category": "verb",
+      "dutch": "liegen",
+      "infinitive": "liegen",
+      "presentPerfect": "heb gelogen",
+      "pastSingular": "loog",
+      "pastPlural": "logen",
+      "english": "to lie, to tell lies"
+    },
+    {
+      "id": "verb_liggen",
+      "category": "verb",
+      "dutch": "liggen",
+      "infinitive": "liggen",
+      "presentPerfect": "heb gelegen",
+      "pastSingular": "lag",
+      "pastPlural": "lagen",
+      "english": "to lie, to be lying down"
+    },
+    {
+      "id": "verb_logeren",
+      "category": "verb",
+      "dutch": "logeren",
+      "infinitive": "logeren",
+      "presentPerfect": "heb gelogeerd",
+      "pastSingular": "logeerde",
+      "pastPlural": "logeerden",
+      "english": "to stay, to board, to lodge"
+    },
+    {
+      "id": "verb_lopen",
+      "category": "verb",
+      "dutch": "lopen",
+      "infinitive": "lopen",
+      "presentPerfect": "heb gelopen",
+      "pastSingular": "liep",
+      "pastPlural": "liepen",
+      "english": "to walk"
+    },
+    {
+      "id": "verb_luisteren",
+      "category": "verb",
+      "dutch": "luisteren",
+      "infinitive": "luisteren",
+      "presentPerfect": "heb geluisterd",
+      "pastSingular": "luisterde",
+      "pastPlural": "luisterden",
+      "english": "to listen"
+    },
+    {
+      "id": "verb_maken",
+      "category": "verb",
+      "dutch": "maken",
+      "infinitive": "maken",
+      "presentPerfect": "heb gemaakt",
+      "pastSingular": "maakte",
+      "pastPlural": "maakten",
+      "english": "to make"
+    },
+    {
+      "id": "verb_meenemen",
+      "category": "verb",
+      "dutch": "meenemen",
+      "infinitive": "meenemen",
+      "presentPerfect": "heb meegenomen",
+      "pastSingular": "nam mee",
+      "pastPlural": "namen mee",
+      "english": "to take along, to carry off/along"
+    },
+    {
+      "id": "verb_missen",
+      "category": "verb",
+      "dutch": "missen",
+      "infinitive": "missen",
+      "presentPerfect": "heb gemist",
+      "pastSingular": "miste",
+      "pastPlural": "misten",
+      "english": "to miss"
+    },
+    {
+      "id": "verb_nakijken",
+      "category": "verb",
+      "dutch": "nakijken",
+      "infinitive": "nakijken",
+      "presentPerfect": "heb nagekeken",
+      "pastSingular": "keek na",
+      "pastPlural": "keken na",
+      "english": "to check, to review"
+    },
+    {
+      "id": "verb_nemen",
+      "category": "verb",
+      "dutch": "nemen",
+      "infinitive": "nemen",
+      "presentPerfect": "heb genomen",
+      "pastSingular": "nam",
+      "pastPlural": "namen",
+      "english": "to take"
+    },
+    {
+      "id": "verb_noteren",
+      "category": "verb",
+      "dutch": "noteren",
+      "infinitive": "noteren",
+      "presentPerfect": "heb genoteerd",
+      "pastSingular": "noteerde",
+      "pastPlural": "noteerden",
+      "english": "to note, to write down"
+    },
+    {
+      "id": "verb_oefenen",
+      "category": "verb",
+      "dutch": "oefenen",
+      "infinitive": "oefenen",
+      "presentPerfect": "heb geoefend",
+      "pastSingular": "oefende",
+      "pastPlural": "oefenden",
+      "english": "to exercise, to practice, to train"
+    },
+    {
+      "id": "verb_omschrijven",
+      "category": "verb",
+      "dutch": "omschrijven",
+      "infinitive": "omschrijven",
+      "presentPerfect": "heb omschreven",
+      "pastSingular": "omschreef",
+      "pastPlural": "omschreven",
+      "english": "to describe"
+    },
+    {
+      "id": "verb_ondervragen",
+      "category": "verb",
+      "dutch": "ondervragen",
+      "infinitive": "ondervragen",
+      "presentPerfect": "heb ondervraagd",
+      "pastSingular": "ondervroeg",
+      "pastPlural": "ondervroegen",
+      "english": "to interrogate"
+    },
+    {
+      "id": "verb_ontmoeten",
+      "category": "verb",
+      "dutch": "ontmoeten",
+      "infinitive": "ontmoeten",
+      "presentPerfect": "heb ontmoet",
+      "pastSingular": "ontmoette",
+      "pastPlural": "ontmoetten",
+      "english": "to meet, to encounter"
+    },
+    {
+      "id": "verb_opendoen",
+      "category": "verb",
+      "dutch": "opendoen",
+      "infinitive": "opendoen",
+      "presentPerfect": "heb opengedaan",
+      "pastSingular": "deed open",
+      "pastPlural": "deden open",
+      "english": "to open"
+    },
+    {
+      "id": "verb_openen",
+      "category": "verb",
+      "dutch": "openen",
+      "infinitive": "openen",
+      "presentPerfect": "heb geopend",
+      "pastSingular": "opende",
+      "pastPlural": "openden",
+      "english": "to open"
+    },
+    {
+      "id": "verb_opletten",
+      "category": "verb",
+      "dutch": "opletten",
+      "infinitive": "opletten",
+      "presentPerfect": "heb opgelet",
+      "pastSingular": "lette op",
+      "pastPlural": "letten op",
+      "english": "to pay attention"
+    },
+    {
+      "id": "verb_opruimen",
+      "category": "verb",
+      "dutch": "opruimen",
+      "infinitive": "opruimen",
+      "presentPerfect": "heb opgeruimd",
+      "pastSingular": "ruimde op",
+      "pastPlural": "ruimden op",
+      "english": "to clean up"
+    },
+    {
+      "id": "verb_opstaan",
+      "category": "verb",
+      "dutch": "opstaan",
+      "infinitive": "opstaan",
+      "presentPerfect": "ben opgestaan",
+      "pastSingular": "stond op",
+      "pastPlural": "stonden op",
+      "english": "to get up"
+    },
+    {
+      "id": "verb_organiseren",
+      "category": "verb",
+      "dutch": "organiseren",
+      "infinitive": "organiseren",
+      "presentPerfect": "heb georganiseerd",
+      "pastSingular": "organiseerde",
+      "pastPlural": "organiseerden",
+      "english": "to organize"
+    },
+    {
+      "id": "verb_overtuigen",
+      "category": "verb",
+      "dutch": "overtuigen",
+      "infinitive": "overtuigen",
+      "presentPerfect": "heb overtuigd",
+      "pastSingular": "overtuigde",
+      "pastPlural": "overtuigden",
+      "english": "to convince"
+    },
+    {
+      "id": "verb_parkeren",
+      "category": "verb",
+      "dutch": "parkeren",
+      "infinitive": "parkeren",
+      "presentPerfect": "heb geparkeerd",
+      "pastSingular": "parkeerde",
+      "pastPlural": "parkeerden",
+      "english": "to park"
+    },
+    {
+      "id": "verb_praten",
+      "category": "verb",
+      "dutch": "praten",
+      "infinitive": "praten",
+      "presentPerfect": "heb gepraat",
+      "pastSingular": "praatte",
+      "pastPlural": "praatten",
+      "english": "to talk"
+    },
+    {
+      "id": "verb_proberen",
+      "category": "verb",
+      "dutch": "proberen",
+      "infinitive": "proberen",
+      "presentPerfect": "heb geprobeerd",
+      "pastSingular": "probeerde",
+      "pastPlural": "probeerden",
+      "english": "to try, to attemp"
+    },
+    {
+      "id": "verb_reizen",
+      "category": "verb",
+      "dutch": "reizen",
+      "infinitive": "reizen",
+      "presentPerfect": "heb gereisd",
+      "pastSingular": "reisde",
+      "pastPlural": "reisden",
+      "english": "to travel"
+    },
+    {
+      "id": "verb_regenen",
+      "category": "verb",
+      "dutch": "regenen",
+      "infinitive": "regenen",
+      "presentPerfect": "heb geregend",
+      "pastSingular": "regende",
+      "pastPlural": "regenden",
+      "english": "to rain"
+    },
+    {
+      "id": "verb_regeren",
+      "category": "verb",
+      "dutch": "regeren",
+      "infinitive": "regeren",
+      "presentPerfect": "heb geregeerd",
+      "pastSingular": "regeerde",
+      "pastPlural": "regeerden",
+      "english": "to govern, to rule"
+    },
+    {
+      "id": "verb_repareren",
+      "category": "verb",
+      "dutch": "repareren",
+      "infinitive": "repareren",
+      "presentPerfect": "heb gerepareerd",
+      "pastSingular": "repareerde",
+      "pastPlural": "repareerden",
+      "english": "to repair"
+    },
+    {
+      "id": "verb_rijden",
+      "category": "verb",
+      "dutch": "rijden",
+      "infinitive": "rijden",
+      "presentPerfect": "heb gereden",
+      "pastSingular": "reed",
+      "pastPlural": "reden",
+      "english": "to ride"
+    },
+    {
+      "id": "verb_rinkelen",
+      "category": "verb",
+      "dutch": "rinkelen",
+      "infinitive": "rinkelen",
+      "presentPerfect": "heb gerinkeld",
+      "pastSingular": "rinkelde",
+      "pastPlural": "rinkelden",
+      "english": "to ring, to make ringing sound"
+    },
+    {
+      "id": "verb_roepen",
+      "category": "verb",
+      "dutch": "roepen",
+      "infinitive": "roepen",
+      "presentPerfect": "heb geroepen",
+      "pastSingular": "riep",
+      "pastPlural": "riepen",
+      "english": "to call, to summon, to shout, to cry"
+    },
+    {
+      "id": "verb_roken",
+      "category": "verb",
+      "dutch": "roken",
+      "infinitive": "roken",
+      "presentPerfect": "heb gerookt",
+      "pastSingular": "rookte",
+      "pastPlural": "rookten",
+      "english": "to smoke"
+    },
+    {
+      "id": "verb_rollen",
+      "category": "verb",
+      "dutch": "rollen",
+      "infinitive": "rollen",
+      "presentPerfect": "heb gerold",
+      "pastSingular": "rolde",
+      "pastPlural": "rolden",
+      "english": "to roll"
+    },
+    {
+      "id": "verb_schamen",
+      "category": "verb",
+      "dutch": "schamen",
+      "infinitive": "schamen",
+      "presentPerfect": "heb geschaamd",
+      "pastSingular": "schaamde",
+      "pastPlural": "schaamden",
+      "english": "to be ashamed (zich)"
+    },
+    {
+      "id": "verb_scheren",
+      "category": "verb",
+      "dutch": "scheren",
+      "infinitive": "scheren",
+      "presentPerfect": "heb geschoren",
+      "pastSingular": "schoor",
+      "pastPlural": "schoren",
+      "english": "to shave"
+    },
+    {
+      "id": "verb_schilderen",
+      "category": "verb",
+      "dutch": "schilderen",
+      "infinitive": "schilderen",
+      "presentPerfect": "heb geschilderd",
+      "pastSingular": "schilderde",
+      "pastPlural": "schilderden",
+      "english": "to paint"
+    },
+    {
+      "id": "verb_schreeuwen",
+      "category": "verb",
+      "dutch": "schreeuwen",
+      "infinitive": "schreeuwen",
+      "presentPerfect": "heb geschreeuwd",
+      "pastSingular": "schreeuwde",
+      "pastPlural": "schreeuwden",
+      "english": "to scream, to yell"
+    },
+    {
+      "id": "verb_schrijven",
+      "category": "verb",
+      "dutch": "schrijven",
+      "infinitive": "schrijven",
+      "presentPerfect": "heb geschreven",
+      "pastSingular": "schreef",
+      "pastPlural": "schreven",
+      "english": "to write"
+    },
+    {
+      "id": "verb_schrikken",
+      "category": "verb",
+      "dutch": "schrikken",
+      "infinitive": "schrikken",
+      "presentPerfect": "ben geschrokken",
+      "pastSingular": "schrok",
+      "pastPlural": "schrokken",
+      "english": "to scare"
+    },
+    {
+      "id": "verb_slapen",
+      "category": "verb",
+      "dutch": "slapen",
+      "infinitive": "slapen",
+      "presentPerfect": "heb geslapen",
+      "pastSingular": "sliep",
+      "pastPlural": "sliepen",
+      "english": "to sleep"
+    },
+    {
+      "id": "verb_sluiten",
+      "category": "verb",
+      "dutch": "sluiten",
+      "infinitive": "sluiten",
+      "presentPerfect": "heb gesloten",
+      "pastSingular": "sloot",
+      "pastPlural": "sloten",
+      "english": "to close"
+    },
+    {
+      "id": "verb_smaken",
+      "category": "verb",
+      "dutch": "smaken",
+      "infinitive": "smaken",
+      "presentPerfect": "heb gesmaakt",
+      "pastSingular": "smaakte",
+      "pastPlural": "smaakten",
+      "english": "to taste"
+    },
+    {
+      "id": "verb_snijden",
+      "category": "verb",
+      "dutch": "snijden",
+      "infinitive": "snijden",
+      "presentPerfect": "heb gesneden",
+      "pastSingular": "sneed",
+      "pastPlural": "sneden",
+      "english": "to cut"
+    },
+    {
+      "id": "verb_sparen",
+      "category": "verb",
+      "dutch": "sparen",
+      "infinitive": "sparen",
+      "presentPerfect": "heb gespaard",
+      "pastSingular": "spaarde",
+      "pastPlural": "spaarden",
+      "english": "to save up (money)"
+    },
+    {
+      "id": "verb_spelen",
+      "category": "verb",
+      "dutch": "spelen",
+      "infinitive": "spelen",
+      "presentPerfect": "heb gespeeld",
+      "pastSingular": "speelde",
+      "pastPlural": "speelden",
+      "english": "to play"
+    },
+    {
+      "id": "verb_spreken",
+      "category": "verb",
+      "dutch": "spreken",
+      "infinitive": "spreken",
+      "presentPerfect": "heb gesproken",
+      "pastSingular": "sprak",
+      "pastPlural": "spraken",
+      "english": "to speak"
+    },
+    {
+      "id": "verb_slaan",
+      "category": "verb",
+      "dutch": "slaan",
+      "infinitive": "slaan",
+      "presentPerfect": "heb geslagen",
+      "pastSingular": "sloeg",
+      "pastPlural": "sloegen",
+      "english": "to beat, to hit"
+    },
+    {
+      "id": "verb_staan",
+      "category": "verb",
+      "dutch": "staan",
+      "infinitive": "staan",
+      "presentPerfect": "heb gestaan",
+      "pastSingular": "stond",
+      "pastPlural": "stonden",
+      "english": "to stand"
+    },
+    {
+      "id": "verb_stellen",
+      "category": "verb",
+      "dutch": "stellen",
+      "infinitive": "stellen",
+      "presentPerfect": "heb gesteld",
+      "pastSingular": "stelde",
+      "pastPlural": "stelden",
+      "english": "to position, to state, to put forward"
+    },
+    {
+      "id": "verb_studeren",
+      "category": "verb",
+      "dutch": "studeren",
+      "infinitive": "studeren",
+      "presentPerfect": "heb gestudeerd",
+      "pastSingular": "studeerde",
+      "pastPlural": "studeerden",
+      "english": "to study"
+    },
+    {
+      "id": "verb_sturen",
+      "category": "verb",
+      "dutch": "sturen",
+      "infinitive": "sturen",
+      "presentPerfect": "heb gestuurd",
+      "pastSingular": "stuurde",
+      "pastPlural": "stuurden",
+      "english": "to send"
+    },
+    {
+      "id": "verb_tennissen",
+      "category": "verb",
+      "dutch": "tennissen",
+      "infinitive": "tennissen",
+      "presentPerfect": "heb getennist",
+      "pastSingular": "tenniste",
+      "pastPlural": "tennisten",
+      "english": "to play tennis"
+    },
+    {
+      "id": "verb_tonen",
+      "category": "verb",
+      "dutch": "tonen",
+      "infinitive": "tonen",
+      "presentPerfect": "heb getoond",
+      "pastSingular": "toonde",
+      "pastPlural": "toonden",
+      "english": "to show (in UI, computers)"
+    },
+    {
+      "id": "verb_trachten",
+      "category": "verb",
+      "dutch": "trachten",
+      "infinitive": "trachten",
+      "presentPerfect": "heb getracht",
+      "pastSingular": "trachtte",
+      "pastPlural": "trachtten",
+      "english": "to attempt"
+    },
+    {
+      "id": "verb_trekken",
+      "category": "verb",
+      "dutch": "trekken",
+      "infinitive": "trekken",
+      "presentPerfect": "heb getrokken",
+      "pastSingular": "trok",
+      "pastPlural": "trokken",
+      "english": "to pull"
+    },
+    {
+      "id": "verb_trouwen",
+      "category": "verb",
+      "dutch": "trouwen",
+      "infinitive": "trouwen",
+      "presentPerfect": "ben getrouwd",
+      "pastSingular": "trouwde",
+      "pastPlural": "trouwden",
+      "english": "to marry"
+    },
+    {
+      "id": "verb_twijfelen",
+      "category": "verb",
+      "dutch": "twijfelen",
+      "infinitive": "twijfelen",
+      "presentPerfect": "heb getwijfeld",
+      "pastSingular": "twijfelde",
+      "pastPlural": "twijfelden",
+      "english": "to doubt"
+    },
+    {
+      "id": "verb_uitgaan",
+      "category": "verb",
+      "dutch": "uitgaan",
+      "infinitive": "uitgaan",
+      "presentPerfect": "ben uitgegaan",
+      "pastSingular": "ging uit",
+      "pastPlural": "gingen uit",
+      "english": "to go out"
+    },
+    {
+      "id": "verb_uitrusten",
+      "category": "verb",
+      "dutch": "uitrusten",
+      "infinitive": "uitrusten",
+      "presentPerfect": "heb uitgerust",
+      "pastSingular": "rustte uit",
+      "pastPlural": "rustten uit",
+      "english": "to rest"
+    },
+    {
+      "id": "verb_vallen",
+      "category": "verb",
+      "dutch": "vallen",
+      "infinitive": "vallen",
+      "presentPerfect": "ben gevallen",
+      "pastSingular": "viel",
+      "pastPlural": "vielen",
+      "english": "to fall, to begin"
+    },
+    {
+      "id": "verb_verbergen",
+      "category": "verb",
+      "dutch": "verbergen",
+      "infinitive": "verbergen",
+      "presentPerfect": "heb verborgen",
+      "pastSingular": "verborg",
+      "pastPlural": "verborgen",
+      "english": "to hide (in UI, computers)"
+    },
+    {
+      "id": "verb_verdelen",
+      "category": "verb",
+      "dutch": "verdelen",
+      "infinitive": "verdelen",
+      "presentPerfect": "heb verdeeld",
+      "pastSingular": "verdeelde",
+      "pastPlural": "verdeelden",
+      "english": "to distribute/ to divide (ulestirmek)"
+    },
+    {
+      "id": "verb_verdienen",
+      "category": "verb",
+      "dutch": "verdienen",
+      "infinitive": "verdienen",
+      "presentPerfect": "heb verdiend",
+      "pastSingular": "verdiende",
+      "pastPlural": "verdienden",
+      "english": "to earn, to deserve"
+    },
+    {
+      "id": "verb_vergeten",
+      "category": "verb",
+      "dutch": "vergeten",
+      "infinitive": "vergeten",
+      "presentPerfect": "heb vergeten",
+      "pastSingular": "vergat",
+      "pastPlural": "vergaten",
+      "english": "to forget"
+    },
+    {
+      "id": "verb_vergissen",
+      "category": "verb",
+      "dutch": "vergissen",
+      "infinitive": "vergissen",
+      "presentPerfect": "heb vergist",
+      "pastSingular": "vergiste",
+      "pastPlural": "vergisten",
+      "english": "to make self mistake (zich)"
+    },
+    {
+      "id": "verb_verhuizen",
+      "category": "verb",
+      "dutch": "verhuizen",
+      "infinitive": "verhuizen",
+      "presentPerfect": "heb verhuisd",
+      "pastSingular": "verhuisde",
+      "pastPlural": "verhuisden",
+      "english": "to move from one residence to another"
+    },
+    {
+      "id": "verb_verkopen",
+      "category": "verb",
+      "dutch": "verkopen",
+      "infinitive": "verkopen",
+      "presentPerfect": "heb verkocht",
+      "pastSingular": "verkocht",
+      "pastPlural": "verkochten",
+      "english": "to sell"
+    },
+    {
+      "id": "verb_verlangen",
+      "category": "verb",
+      "dutch": "verlangen",
+      "infinitive": "verlangen",
+      "presentPerfect": "heb verlangd",
+      "pastSingular": "verlangde",
+      "pastPlural": "verlangden",
+      "english": "to long for, to desire, to be longing for"
+    },
+    {
+      "id": "verb_vertellen",
+      "category": "verb",
+      "dutch": "vertellen",
+      "infinitive": "vertellen",
+      "presentPerfect": "heb verteld",
+      "pastSingular": "vertelde",
+      "pastPlural": "vertelden",
+      "english": "to tell"
+    },
+    {
+      "id": "verb_vertrekken",
+      "category": "verb",
+      "dutch": "vertrekken",
+      "infinitive": "vertrekken",
+      "presentPerfect": "ben vertrokken",
+      "pastSingular": "vertrok",
+      "pastPlural": "vertrokken",
+      "english": "to depart, to leave"
+    },
+    {
+      "id": "verb_vertrouwen",
+      "category": "verb",
+      "dutch": "vertrouwen",
+      "infinitive": "vertrouwen",
+      "presentPerfect": "heb vertrouwd",
+      "pastSingular": "vertrouwde",
+      "pastPlural": "vertrouwden",
+      "english": "to trust"
+    },
+    {
+      "id": "verb_verslikken",
+      "category": "verb",
+      "dutch": "verslikken",
+      "infinitive": "verslikken",
+      "presentPerfect": "heb verslikt",
+      "pastSingular": "verslikte",
+      "pastPlural": "verslikten",
+      "english": "to choke, to swallow wrong (zich)"
+    },
+    {
+      "id": "verb_verspreken",
+      "category": "verb",
+      "dutch": "verspreken",
+      "infinitive": "verspreken",
+      "presentPerfect": "heb versproken",
+      "pastSingular": "versprak",
+      "pastPlural": "verspraken",
+      "english": "to misspeak (zich)"
+    },
+    {
+      "id": "verb_vervelen",
+      "category": "verb",
+      "dutch": "vervelen",
+      "infinitive": "vervelen",
+      "presentPerfect": "heb verveeld",
+      "pastSingular": "verveelde",
+      "pastPlural": "verveelden",
+      "english": "to be bored (zich)"
+    },
+    {
+      "id": "verb_verven",
+      "category": "verb",
+      "dutch": "verven",
+      "infinitive": "verven",
+      "presentPerfect": "heb geverfd",
+      "pastSingular": "verfde",
+      "pastPlural": "verfden",
+      "english": "to paint"
+    },
+    {
+      "id": "verb_vervoeren",
+      "category": "verb",
+      "dutch": "vervoeren",
+      "infinitive": "vervoeren",
+      "presentPerfect": "heb vervoerd",
+      "pastSingular": "vervoerde",
+      "pastPlural": "vervoerden",
+      "english": "to transport, to travel"
+    },
+    {
+      "id": "verb_vieren",
+      "category": "verb",
+      "dutch": "vieren",
+      "infinitive": "vieren",
+      "presentPerfect": "heb gevierd",
+      "pastSingular": "vierde",
+      "pastPlural": "vierden",
+      "english": "to celebrate"
+    },
+    {
+      "id": "verb_vinden",
+      "category": "verb",
+      "dutch": "vinden",
+      "infinitive": "vinden",
+      "presentPerfect": "heb gevonden",
+      "pastSingular": "vond",
+      "pastPlural": "vonden",
+      "english": "to find"
+    },
+    {
+      "id": "verb_vluchten",
+      "category": "verb",
+      "dutch": "vluchten",
+      "infinitive": "vluchten",
+      "presentPerfect": "heb gevlucht",
+      "pastSingular": "vluchtte",
+      "pastPlural": "vluchtten",
+      "english": "to flee"
+    },
+    {
+      "id": "verb_volgen",
+      "category": "verb",
+      "dutch": "volgen",
+      "infinitive": "volgen",
+      "presentPerfect": "heb gevolgd",
+      "pastSingular": "volgde",
+      "pastPlural": "volgden",
+      "english": "to follow"
+    },
+    {
+      "id": "verb_voltooien",
+      "category": "verb",
+      "dutch": "voltooien",
+      "infinitive": "voltooien",
+      "presentPerfect": "heb voltooid",
+      "pastSingular": "voltooide",
+      "pastPlural": "voltooiden",
+      "english": "to complete, to finish"
+    },
+    {
+      "id": "verb_vragen",
+      "category": "verb",
+      "dutch": "vragen",
+      "infinitive": "vragen",
+      "presentPerfect": "heb gevraagd",
+      "pastSingular": "vroeg",
+      "pastPlural": "vroegen",
+      "english": "to ask"
+    },
+    {
+      "id": "verb_vullen",
+      "category": "verb",
+      "dutch": "vullen",
+      "infinitive": "vullen",
+      "presentPerfect": "heb gevuld",
+      "pastSingular": "vulde",
+      "pastPlural": "vulden",
+      "english": "to fill"
+    },
+    {
+      "id": "verb_wachten",
+      "category": "verb",
+      "dutch": "wachten",
+      "infinitive": "wachten",
+      "presentPerfect": "heb gewacht",
+      "pastSingular": "wachtte",
+      "pastPlural": "wachtten",
+      "english": "to wait"
+    },
+    {
+      "id": "verb_wandelen",
+      "category": "verb",
+      "dutch": "wandelen",
+      "infinitive": "wandelen",
+      "presentPerfect": "heb gewandeld",
+      "pastSingular": "wandelde",
+      "pastPlural": "wandelden",
+      "english": "to walk"
+    },
+    {
+      "id": "verb_wassen",
+      "category": "verb",
+      "dutch": "wassen",
+      "infinitive": "wassen",
+      "presentPerfect": "heb gewassen",
+      "pastSingular": "waste",
+      "pastPlural": "wasten",
+      "english": "to wash"
+    },
+    {
+      "id": "verb_wegbrengen",
+      "category": "verb",
+      "dutch": "wegbrengen",
+      "infinitive": "wegbrengen",
+      "presentPerfect": "heb weggebracht",
+      "pastSingular": "bracht weg",
+      "pastPlural": "brachten weg",
+      "english": "to carry away"
+    },
+    {
+      "id": "verb_werken",
+      "category": "verb",
+      "dutch": "werken",
+      "infinitive": "werken",
+      "presentPerfect": "heb gewerkt",
+      "pastSingular": "werkte",
+      "pastPlural": "werkten",
+      "english": "to work"
+    },
+    {
+      "id": "verb_weten",
+      "category": "verb",
+      "dutch": "weten",
+      "infinitive": "weten",
+      "presentPerfect": "heb geweten",
+      "pastSingular": "wist",
+      "pastPlural": "wisten",
+      "english": "to know"
+    },
+    {
+      "id": "verb_wonen",
+      "category": "verb",
+      "dutch": "wonen",
+      "infinitive": "wonen",
+      "presentPerfect": "heb gewoond",
+      "pastSingular": "woonde",
+      "pastPlural": "woonden",
+      "english": "to live (in a place)"
+    },
+    {
+      "id": "verb_worden",
+      "category": "verb",
+      "dutch": "worden",
+      "infinitive": "worden",
+      "presentPerfect": "ben geworden",
+      "pastSingular": "werd",
+      "pastPlural": "werden",
+      "english": "to become"
+    },
+    {
+      "id": "verb_zien",
+      "category": "verb",
+      "dutch": "zien",
+      "infinitive": "zien",
+      "presentPerfect": "heb gezien",
+      "pastSingular": "zag",
+      "pastPlural": "zagen",
+      "english": "to see"
+    },
+    {
+      "id": "verb_zijn",
+      "category": "verb",
+      "dutch": "zijn",
+      "infinitive": "zijn",
+      "presentPerfect": "ben geweest",
+      "pastSingular": "was",
+      "pastPlural": "waren",
+      "english": "to be"
+    },
+    {
+      "id": "verb_zingen",
+      "category": "verb",
+      "dutch": "zingen",
+      "infinitive": "zingen",
+      "presentPerfect": "heb gezongen",
+      "pastSingular": "zong",
+      "pastPlural": "zongen",
+      "english": "to sing"
+    },
+    {
+      "id": "verb_zitten",
+      "category": "verb",
+      "dutch": "zitten",
+      "infinitive": "zitten",
+      "presentPerfect": "heb gezeten",
+      "pastSingular": "zat",
+      "pastPlural": "zaten",
+      "english": "to sit"
+    },
+    {
+      "id": "verb_zorgen",
+      "category": "verb",
+      "dutch": "zorgen",
+      "infinitive": "zorgen",
+      "presentPerfect": "heb gezorgd",
+      "pastSingular": "zorgde",
+      "pastPlural": "zorgden",
+      "english": "to care"
+    },
+    {
+      "id": "verb_zwemmen",
+      "category": "verb",
+      "dutch": "zwemmen",
+      "infinitive": "zwemmen",
+      "presentPerfect": "heb gezwommen",
+      "pastSingular": "zwom",
+      "pastPlural": "zwommen",
+      "english": "to swim"
+    }
+  ],
+  "adjectives": [
+    {
+      "id": "adj_aan",
+      "category": "adjective",
+      "dutch": "aan",
+      "english": "on"
+    },
+    {
+      "id": "adj_af",
+      "category": "adjective",
+      "dutch": "af",
+      "english": "off"
+    },
+    {
+      "id": "adj_afgelopen",
+      "category": "adjective",
+      "dutch": "afgelopen",
+      "english": "last, past, finished"
+    },
+    {
+      "id": "adj_aardig",
+      "category": "adjective",
+      "dutch": "aardig",
+      "english": "nice"
+    },
+    {
+      "id": "adj_achter",
+      "category": "adjective",
+      "dutch": "achter",
+      "english": "behind"
+    },
+    {
+      "id": "adj_al",
+      "category": "adjective",
+      "dutch": "al",
+      "english": "already"
+    },
+    {
+      "id": "adj_alle",
+      "category": "adjective",
+      "dutch": "alle",
+      "english": "all the ..., all"
+    },
+    {
+      "id": "adj_alleen",
+      "category": "adjective",
+      "dutch": "alleen",
+      "english": "only, alone"
+    },
+    {
+      "id": "adj_allemaal",
+      "category": "adjective",
+      "dutch": "allemaal",
+      "english": "all of them, everybody, everything, altogether"
+    },
+    {
+      "id": "adj_allerlei",
+      "category": "adjective",
+      "dutch": "allerlei",
+      "english": "all kinds of"
+    },
+    {
+      "id": "adj_alles",
+      "category": "adjective",
+      "dutch": "alles",
+      "english": "everything, anything"
+    },
+    {
+      "id": "adj_altijd",
+      "category": "adjective",
+      "dutch": "altijd",
+      "english": "always"
+    },
+    {
+      "id": "adj_arm",
+      "category": "adjective",
+      "dutch": "arm",
+      "english": "poor"
+    },
+    {
+      "id": "adj_behalve",
+      "category": "adjective",
+      "dutch": "behalve",
+      "english": "except"
+    },
+    {
+      "id": "adj_bijna",
+      "category": "adjective",
+      "dutch": "bijna",
+      "english": "almost"
+    },
+    {
+      "id": "adj_binnen",
+      "category": "adjective",
+      "dutch": "binnen",
+      "english": "inside"
+    },
+    {
+      "id": "adj_binnenkort",
+      "category": "adjective",
+      "dutch": "binnenkort",
+      "english": "shortly"
+    },
+    {
+      "id": "adj_blauw",
+      "category": "adjective",
+      "dutch": "blauw",
+      "english": "blue"
+    },
+    {
+      "id": "adj_blij",
+      "category": "adjective",
+      "dutch": "blij",
+      "english": "happy"
+    },
+    {
+      "id": "adj_boos",
+      "category": "adjective",
+      "dutch": "boos",
+      "english": "angry"
+    },
+    {
+      "id": "adj_boven",
+      "category": "adjective",
+      "dutch": "boven",
+      "english": "above, upstairs"
+    },
+    {
+      "id": "adj_bruikbaar",
+      "category": "adjective",
+      "dutch": "bruikbaar",
+      "english": "useful"
+    },
+    {
+      "id": "adj_bruin",
+      "category": "adjective",
+      "dutch": "bruin",
+      "english": "brown"
+    },
+    {
+      "id": "adj_buiten",
+      "category": "adjective",
+      "dutch": "buiten",
+      "english": "outside"
+    },
+    {
+      "id": "adj_daar",
+      "category": "adjective",
+      "dutch": "daar",
+      "english": "there"
+    },
+    {
+      "id": "adj_dik",
+      "category": "adjective",
+      "dutch": "dik",
+      "english": "fat"
+    },
+    {
+      "id": "adj_donker",
+      "category": "adjective",
+      "dutch": "donker",
+      "english": "dark"
+    },
+    {
+      "id": "adj_door",
+      "category": "adjective",
+      "dutch": "door",
+      "english": "through"
+    },
+    {
+      "id": "adj_druk",
+      "category": "adjective",
+      "dutch": "druk",
+      "english": "busy, crowded"
+    },
+    {
+      "id": "adj_dun",
+      "category": "adjective",
+      "dutch": "dun",
+      "english": "thin"
+    },
+    {
+      "id": "adj_duur",
+      "category": "adjective",
+      "dutch": "duur",
+      "english": "expensive"
+    },
+    {
+      "id": "adj_eerlijk",
+      "category": "adjective",
+      "dutch": "eerlijk",
+      "english": "fair, fairly, honest, honestly"
+    },
+    {
+      "id": "adj_eng",
+      "category": "adjective",
+      "dutch": "eng",
+      "english": "scary"
+    },
+    {
+      "id": "adj_erg",
+      "category": "adjective",
+      "dutch": "erg",
+      "english": "very much / severe, terrible, awful"
+    },
+    {
+      "id": "adj_fluwelen",
+      "category": "adjective",
+      "dutch": "fluwelen",
+      "english": "velvet (substance)"
+    },
+    {
+      "id": "adj_fout",
+      "category": "adjective",
+      "dutch": "fout",
+      "english": "wrong, incorrect"
+    },
+    {
+      "id": "adj_geel",
+      "category": "adjective",
+      "dutch": "geel",
+      "english": "yellow"
+    },
+    {
+      "id": "adj_gelukkig",
+      "category": "adjective",
+      "dutch": "gelukkig",
+      "english": "happy, happily"
+    },
+    {
+      "id": "adj_genoeg",
+      "category": "adjective",
+      "dutch": "genoeg",
+      "english": "enough"
+    },
+    {
+      "id": "adj_gewoon",
+      "category": "adjective",
+      "dutch": "gewoon",
+      "english": "just(adv), regular, ordinary, normal(adj)"
+    },
+    {
+      "id": "adj_gezellig",
+      "category": "adjective",
+      "dutch": "gezellig",
+      "english": "cozy"
+    },
+    {
+      "id": "adj_gisteren",
+      "category": "adjective",
+      "dutch": "gisteren",
+      "english": "yesterday"
+    },
+    {
+      "id": "adj_glad",
+      "category": "adjective",
+      "dutch": "glad",
+      "english": "slippery"
+    },
+    {
+      "id": "adj_goed",
+      "category": "adjective",
+      "dutch": "goed",
+      "english": "good"
+    },
+    {
+      "id": "adj_goedkoop",
+      "category": "adjective",
+      "dutch": "goedkoop",
+      "english": "cheap"
+    },
+    {
+      "id": "adj_gouden",
+      "category": "adjective",
+      "dutch": "gouden",
+      "english": "golden (substance)"
+    },
+    {
+      "id": "adj_graag",
+      "category": "adjective",
+      "dutch": "graag",
+      "english": "gladly, willingly"
+    },
+    {
+      "id": "adj_grijs",
+      "category": "adjective",
+      "dutch": "grijs",
+      "english": "gray"
+    },
+    {
+      "id": "adj_groen",
+      "category": "adjective",
+      "dutch": "groen",
+      "english": "green"
+    },
+    {
+      "id": "adj_groot",
+      "category": "adjective",
+      "dutch": "groot",
+      "english": "big, large, tall"
+    },
+    {
+      "id": "adj_jarig",
+      "category": "adjective",
+      "dutch": "jarig",
+      "english": "having one's birthday (Hij is jarig)"
+    },
+    {
+      "id": "adj_hard",
+      "category": "adjective",
+      "dutch": "hard",
+      "english": "hard"
+    },
+    {
+      "id": "adj_hartstikke",
+      "category": "adjective",
+      "dutch": "hartstikke",
+      "english": "extremily, (awful)"
+    },
+    {
+      "id": "adj_heel",
+      "category": "adjective",
+      "dutch": "heel",
+      "english": "very/much"
+    },
+    {
+      "id": "adj_heerlijk",
+      "category": "adjective",
+      "dutch": "heerlijk",
+      "english": "delicious"
+    },
+    {
+      "id": "adj_hele",
+      "category": "adjective",
+      "dutch": "hele",
+      "english": "whole"
+    },
+    {
+      "id": "adj_hier",
+      "category": "adjective",
+      "dutch": "hier",
+      "english": "here"
+    },
+    {
+      "id": "adj_hoog",
+      "category": "adjective",
+      "dutch": "hoog",
+      "english": "high"
+    },
+    {
+      "id": "adj_iedereen",
+      "category": "adjective",
+      "dutch": "iedereen",
+      "english": "everyone, everybody, anyone"
+    },
+    {
+      "id": "adj_iemand",
+      "category": "adjective",
+      "dutch": "iemand",
+      "english": "somebody, someone, anybody"
+    },
+    {
+      "id": "adj_iets",
+      "category": "adjective",
+      "dutch": "iets",
+      "english": "something"
+    },
+    {
+      "id": "adj_in",
+      "category": "adjective",
+      "dutch": "in",
+      "english": "in"
+    },
+    {
+      "id": "adj_interessant",
+      "category": "adjective",
+      "dutch": "interessant",
+      "english": "interesting"
+    },
+    {
+      "id": "adj_kartonnen",
+      "category": "adjective",
+      "dutch": "kartonnen",
+      "english": "cardboard (karton) (substance)"
+    },
+    {
+      "id": "adj_klein",
+      "category": "adjective",
+      "dutch": "klein",
+      "english": "small"
+    },
+    {
+      "id": "adj_kleurrijk",
+      "category": "adjective",
+      "dutch": "kleurrijk",
+      "english": "colourful"
+    },
+    {
+      "id": "adj_knap",
+      "category": "adjective",
+      "dutch": "knap",
+      "english": "good looking"
+    },
+    {
+      "id": "adj_kort",
+      "category": "adjective",
+      "dutch": "kort",
+      "english": "short"
+    },
+    {
+      "id": "adj_koud",
+      "category": "adjective",
+      "dutch": "koud",
+      "english": "cold"
+    },
+    {
+      "id": "adj_laag",
+      "category": "adjective",
+      "dutch": "laag",
+      "english": "low"
+    },
+    {
+      "id": "adj_laat",
+      "category": "adjective",
+      "dutch": "laat",
+      "english": "late"
+    },
+    {
+      "id": "adj_lang",
+      "category": "adjective",
+      "dutch": "lang",
+      "english": "long, tall"
+    },
+    {
+      "id": "adj_langzaam",
+      "category": "adjective",
+      "dutch": "langzaam",
+      "english": "slow"
+    },
+    {
+      "id": "adj_leeg",
+      "category": "adjective",
+      "dutch": "leeg",
+      "english": "empty"
+    },
+    {
+      "id": "adj_lekker",
+      "category": "adjective",
+      "dutch": "lekker",
+      "english": "tasty, yummy"
+    },
+    {
+      "id": "adj_lelijk",
+      "category": "adjective",
+      "dutch": "lelijk",
+      "english": "ugly"
+    },
+    {
+      "id": "adj_leuk",
+      "category": "adjective",
+      "dutch": "leuk",
+      "english": "nice"
+    },
+    {
+      "id": "adj_licht",
+      "category": "adjective",
+      "dutch": "licht",
+      "english": "light"
+    },
+    {
+      "id": "adj_lief",
+      "category": "adjective",
+      "dutch": "lief",
+      "english": "sweet, cute, lovely"
+    },
+    {
+      "id": "adj_maar",
+      "category": "adjective",
+      "dutch": "maar",
+      "english": "but, only, just"
+    },
+    {
+      "id": "adj_meestal",
+      "category": "adjective",
+      "dutch": "meestal",
+      "english": "mostly, usually"
+    },
+    {
+      "id": "adj_men",
+      "category": "adjective",
+      "dutch": "men",
+      "english": "one (=ieamand), they"
+    },
+    {
+      "id": "adj_met",
+      "category": "adjective",
+      "dutch": "met",
+      "english": "with"
+    },
+    {
+      "id": "adj_moe",
+      "category": "adjective",
+      "dutch": "moe",
+      "english": "tired"
+    },
+    {
+      "id": "adj_moeilijk",
+      "category": "adjective",
+      "dutch": "moeilijk",
+      "english": "difficult"
+    },
+    {
+      "id": "adj_mooi",
+      "category": "adjective",
+      "dutch": "mooi",
+      "english": "beautiful"
+    },
+    {
+      "id": "adj_morgen",
+      "category": "adjective",
+      "dutch": "morgen",
+      "english": "tomorrow"
+    },
+    {
+      "id": "adj_na",
+      "category": "adjective",
+      "dutch": "na",
+      "english": "after"
+    },
+    {
+      "id": "adj_nieuw",
+      "category": "adjective",
+      "dutch": "nieuw",
+      "english": "new"
+    },
+    {
+      "id": "adj_nog",
+      "category": "adjective",
+      "dutch": "nog",
+      "english": "yet"
+    },
+    {
+      "id": "adj_nog_steeds",
+      "category": "adjective",
+      "dutch": "nog steeds",
+      "english": "still"
+    },
+    {
+      "id": "adj_nogal",
+      "category": "adjective",
+      "dutch": "nogal",
+      "english": "quite"
+    },
+    {
+      "id": "adj_nu",
+      "category": "adjective",
+      "dutch": "nu",
+      "english": "now"
+    },
+    {
+      "id": "adj_nuttig",
+      "category": "adjective",
+      "dutch": "nuttig",
+      "english": "helpful, useful"
+    },
+    {
+      "id": "adj_onder",
+      "category": "adjective",
+      "dutch": "onder",
+      "english": "below"
+    },
+    {
+      "id": "adj_oneindig",
+      "category": "adjective",
+      "dutch": "oneindig",
+      "english": "infinite, endless"
+    },
+    {
+      "id": "adj_ongeveer",
+      "category": "adjective",
+      "dutch": "ongeveer",
+      "english": "about, approximately"
+    },
+    {
+      "id": "adj_ongezellig",
+      "category": "adjective",
+      "dutch": "ongezellig",
+      "english": "not cozy"
+    },
+    {
+      "id": "adj_ontzettend",
+      "category": "adjective",
+      "dutch": "ontzettend",
+      "english": "appallingly, incredibly"
+    },
+    {
+      "id": "adj_onvoldoende",
+      "category": "adjective",
+      "dutch": "onvoldoende",
+      "english": "insufficient"
+    },
+    {
+      "id": "adj_onzijdig",
+      "category": "adjective",
+      "dutch": "onzijdig",
+      "english": "neutral"
+    },
+    {
+      "id": "adj_op",
+      "category": "adjective",
+      "dutch": "op",
+      "english": "on"
+    },
+    {
+      "id": "adj_op_dit_moment",
+      "category": "adjective",
+      "dutch": "op dit moment",
+      "english": "at the moment"
+    },
+    {
+      "id": "adj_oranje",
+      "category": "adjective",
+      "dutch": "oranje",
+      "english": "orange"
+    },
+    {
+      "id": "adj_oud",
+      "category": "adjective",
+      "dutch": "oud",
+      "english": "old"
+    },
+    {
+      "id": "adj_paars",
+      "category": "adjective",
+      "dutch": "paars",
+      "english": "purple"
+    },
+    {
+      "id": "adj_pas",
+      "category": "adjective",
+      "dutch": "pas",
+      "english": "only"
+    },
+    {
+      "id": "adj_plat",
+      "category": "adjective",
+      "dutch": "plat",
+      "english": "flat"
+    },
+    {
+      "id": "adj_prachtig",
+      "category": "adjective",
+      "dutch": "prachtig",
+      "english": "splendid, marvelous, gorgeous"
+    },
+    {
+      "id": "adj_redelijk",
+      "category": "adjective",
+      "dutch": "redelijk",
+      "english": "reasonable"
+    },
+    {
+      "id": "adj_regelmatig",
+      "category": "adjective",
+      "dutch": "regelmatig",
+      "english": "regularly"
+    },
+    {
+      "id": "adj_religieus",
+      "category": "adjective",
+      "dutch": "religieus",
+      "english": "religious"
+    },
+    {
+      "id": "adj_rijk",
+      "category": "adjective",
+      "dutch": "rijk",
+      "english": "rich"
+    },
+    {
+      "id": "adj_romantisch",
+      "category": "adjective",
+      "dutch": "romantisch",
+      "english": "romantic"
+    },
+    {
+      "id": "adj_rond",
+      "category": "adjective",
+      "dutch": "rond",
+      "english": "round, around"
+    },
+    {
+      "id": "adj_rood",
+      "category": "adjective",
+      "dutch": "rood",
+      "english": "red"
+    },
+    {
+      "id": "adj_rose",
+      "category": "adjective",
+      "dutch": "rose",
+      "english": "pink"
+    },
+    {
+      "id": "adj_rustig",
+      "category": "adjective",
+      "dutch": "rustig",
+      "english": "quiet"
+    },
+    {
+      "id": "adj_saai",
+      "category": "adjective",
+      "dutch": "saai",
+      "english": "boring"
+    },
+    {
+      "id": "adj_samen",
+      "category": "adjective",
+      "dutch": "samen",
+      "english": "together"
+    },
+    {
+      "id": "adj_schoon",
+      "category": "adjective",
+      "dutch": "schoon",
+      "english": "clean"
+    },
+    {
+      "id": "adj_slecht",
+      "category": "adjective",
+      "dutch": "slecht",
+      "english": "bad"
+    },
+    {
+      "id": "adj_slim",
+      "category": "adjective",
+      "dutch": "slim",
+      "english": "smart"
+    },
+    {
+      "id": "adj_snel",
+      "category": "adjective",
+      "dutch": "snel",
+      "english": "fast, quick, rapid"
+    },
+    {
+      "id": "adj_sommige",
+      "category": "adjective",
+      "dutch": "sommige",
+      "english": "some"
+    },
+    {
+      "id": "adj_soms",
+      "category": "adjective",
+      "dutch": "soms",
+      "english": "sometimes"
+    },
+    {
+      "id": "adj_spannend",
+      "category": "adjective",
+      "dutch": "spannend",
+      "english": "exciting"
+    },
+    {
+      "id": "adj_sporadisch",
+      "category": "adjective",
+      "dutch": "sporadisch",
+      "english": "sporadically"
+    },
+    {
+      "id": "adj_stom",
+      "category": "adjective",
+      "dutch": "stom",
+      "english": "stupid"
+    },
+    {
+      "id": "adj_stout",
+      "category": "adjective",
+      "dutch": "stout",
+      "english": "naughty"
+    },
+    {
+      "id": "adj_straks",
+      "category": "adjective",
+      "dutch": "straks",
+      "english": "later"
+    },
+    {
+      "id": "adj_tijdens",
+      "category": "adjective",
+      "dutch": "tijdens",
+      "english": "during"
+    },
+    {
+      "id": "adj_typisch",
+      "category": "adjective",
+      "dutch": "typisch",
+      "english": "typical"
+    },
+    {
+      "id": "adj_uit",
+      "category": "adjective",
+      "dutch": "uit",
+      "english": "out, from"
+    },
+    {
+      "id": "adj_vaak",
+      "category": "adjective",
+      "dutch": "vaak",
+      "english": "often"
+    },
+    {
+      "id": "adj_vandaag",
+      "category": "adjective",
+      "dutch": "vandaag",
+      "english": "today"
+    },
+    {
+      "id": "adj_vandaan",
+      "category": "adjective",
+      "dutch": "vandaan",
+      "english": "from"
+    },
+    {
+      "id": "adj_veel",
+      "category": "adjective",
+      "dutch": "veel",
+      "english": "much, many, a lot of"
+    },
+    {
+      "id": "adj_ver",
+      "category": "adjective",
+      "dutch": "ver",
+      "english": "far"
+    },
+    {
+      "id": "adj_verliefd",
+      "category": "adjective",
+      "dutch": "verliefd",
+      "english": "in love"
+    },
+    {
+      "id": "adj_verscheiden",
+      "category": "adjective",
+      "dutch": "verscheiden",
+      "english": "several, various"
+    },
+    {
+      "id": "adj_verschillend",
+      "category": "adjective",
+      "dutch": "verschillend",
+      "english": "different, various"
+    },
+    {
+      "id": "adj_verschrikkelijk",
+      "category": "adjective",
+      "dutch": "verschrikkelijk",
+      "english": "terribly"
+    },
+    {
+      "id": "adj_vies",
+      "category": "adjective",
+      "dutch": "vies",
+      "english": "dirty"
+    },
+    {
+      "id": "adj_vol",
+      "category": "adjective",
+      "dutch": "vol",
+      "english": "full"
+    },
+    {
+      "id": "adj_voldoende",
+      "category": "adjective",
+      "dutch": "voldoende",
+      "english": "sufficient"
+    },
+    {
+      "id": "adj_volgend",
+      "category": "adjective",
+      "dutch": "volgend",
+      "english": "next"
+    },
+    {
+      "id": "adj_volgens",
+      "category": "adjective",
+      "dutch": "volgens",
+      "english": "according to"
+    },
+    {
+      "id": "adj_voor",
+      "category": "adjective",
+      "dutch": "voor",
+      "english": "in front of, before"
+    },
+    {
+      "id": "adj_vorig",
+      "category": "adjective",
+      "dutch": "vorig",
+      "english": "previous"
+    },
+    {
+      "id": "adj_vroeger",
+      "category": "adjective",
+      "dutch": "vroeger",
+      "english": "earlier, formerly, previously, back in the days"
+    },
+    {
+      "id": "adj_vreemd",
+      "category": "adjective",
+      "dutch": "vreemd",
+      "english": "strange"
+    },
+    {
+      "id": "adj_vrij",
+      "category": "adjective",
+      "dutch": "vrij",
+      "english": "free"
+    },
+    {
+      "id": "adj_vuil",
+      "category": "adjective",
+      "dutch": "vuil",
+      "english": "dirty"
+    },
+    {
+      "id": "adj_warm",
+      "category": "adjective",
+      "dutch": "warm",
+      "english": "warm"
+    },
+    {
+      "id": "adj_weinig",
+      "category": "adjective",
+      "dutch": "weinig",
+      "english": "few, not many, not much"
+    },
+    {
+      "id": "adj_wit",
+      "category": "adjective",
+      "dutch": "wit",
+      "english": "white"
+    },
+    {
+      "id": "adj_zacht",
+      "category": "adjective",
+      "dutch": "zacht",
+      "english": "soft"
+    },
+    {
+      "id": "adj_zeer",
+      "category": "adjective",
+      "dutch": "zeer",
+      "english": "very/much"
+    },
+    {
+      "id": "adj_zelden",
+      "category": "adjective",
+      "dutch": "zelden",
+      "english": "rarely"
+    },
+    {
+      "id": "adj_ziek",
+      "category": "adjective",
+      "dutch": "ziek",
+      "english": "sick"
+    },
+    {
+      "id": "adj_zo",
+      "category": "adjective",
+      "dutch": "zo",
+      "english": "so"
+    },
+    {
+      "id": "adj_zonder",
+      "category": "adjective",
+      "dutch": "zonder",
+      "english": "without"
+    },
+    {
+      "id": "adj_zuur",
+      "category": "adjective",
+      "dutch": "zuur",
+      "english": "sour"
+    },
+    {
+      "id": "adj_zwart",
+      "category": "adjective",
+      "dutch": "zwart",
+      "english": "black"
+    }
+  ],
+  "prepositions": [
+    {
+      "id": "prep_in_place",
+      "category": "preposition",
+      "dutch": "in",
+      "english": "in",
+      "group": "place"
+    },
+    {
+      "id": "prep_uit_place",
+      "category": "preposition",
+      "dutch": "uit",
+      "english": "out",
+      "group": "place"
+    },
+    {
+      "id": "prep_op_place",
+      "category": "preposition",
+      "dutch": "op",
+      "english": "on",
+      "group": "place"
+    },
+    {
+      "id": "prep_boven_place",
+      "category": "preposition",
+      "dutch": "boven",
+      "english": "above",
+      "group": "place"
+    },
+    {
+      "id": "prep_onder_place",
+      "category": "preposition",
+      "dutch": "onder",
+      "english": "under",
+      "group": "place"
+    },
+    {
+      "id": "prep_voor_place",
+      "category": "preposition",
+      "dutch": "voor",
+      "english": "in front of",
+      "group": "place"
+    },
+    {
+      "id": "prep_achter_place",
+      "category": "preposition",
+      "dutch": "achter",
+      "english": "behind",
+      "group": "place"
+    },
+    {
+      "id": "prep_naast_place",
+      "category": "preposition",
+      "dutch": "naast",
+      "english": "next",
+      "group": "place"
+    },
+    {
+      "id": "prep_naar_direction",
+      "category": "preposition",
+      "dutch": "naar",
+      "english": "towards",
+      "group": "direction"
+    },
+    {
+      "id": "prep_op_time",
+      "category": "preposition",
+      "dutch": "op",
+      "english": "exact dates: days",
+      "group": "time"
+    },
+    {
+      "id": "prep_om_time",
+      "category": "preposition",
+      "dutch": "om",
+      "english": "time on clock",
+      "group": "time"
+    },
+    {
+      "id": "prep_in_time",
+      "category": "preposition",
+      "dutch": "in",
+      "english": "months, years, seasons",
+      "group": "time"
+    }
+  ]
+}
