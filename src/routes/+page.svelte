@@ -30,7 +30,9 @@
   let hasSession = $derived(totalDue > 0);
   let extraAvailable = $derived(dueCounts.newAvailable);
 
-  let knownCount = $derived(Object.values(categoryProgress).reduce((sum, d) => sum + d.known, 0));
+  let knownCount = $derived(
+    Object.values(categoryProgress).reduce((sum, d) => sum + d.known, 0),
+  );
   let cardsLeft = $derived(allCards.length - knownCount);
 
   const CATEGORY_COLORS: Record<string, string> = {
@@ -125,7 +127,7 @@
   <nav class="navbar">
     <div class="nav-brand">
       <span class="flag">🇳🇱</span>
-      <span class="brand-name">Dutch Flash</span>
+      <span class="brand-name">Flutch</span>
     </div>
     <div class="nav-right">
       <a href="/test" class="nav-link">Test</a>
@@ -265,19 +267,6 @@
     gap: 1rem;
   }
 
-  .streak-badge,
-  .xp-badge {
-    font-weight: 700;
-    font-size: 0.95rem;
-  }
-
-  .streak-badge {
-    color: #f97316;
-  }
-  .xp-badge {
-    color: var(--color-accent);
-  }
-
   .nav-link {
     font-size: 0.9rem;
     color: var(--color-muted);
@@ -341,17 +330,9 @@
     border-radius: 20px;
   }
 
-  .due-pill.learning {
-    background: #fef9c3;
-    color: #854d0e;
-  }
   .due-pill.review {
     background: #dbeafe;
     color: #1e40af;
-  }
-  .due-pill.new {
-    background: #dcfce7;
-    color: #14532d;
   }
 
   .start-btn {
@@ -376,24 +357,6 @@
   .start-btn:disabled {
     opacity: 0.45;
     cursor: default;
-  }
-
-  .extra-btn {
-    background: none;
-    border: none;
-    color: var(--color-accent);
-    font-size: 0.95rem;
-    font-weight: 600;
-    cursor: pointer;
-    font-family: inherit;
-    text-decoration: underline;
-    text-underline-offset: 3px;
-    padding: 0.25rem 0;
-    transition: opacity 0.15s;
-  }
-
-  .extra-btn:hover {
-    opacity: 0.7;
   }
 
   .section {
