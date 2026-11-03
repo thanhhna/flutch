@@ -131,6 +131,7 @@
     </div>
     <div class="nav-right">
       <a href="/test" class="nav-link">Test</a>
+      <a href="/write" class="nav-link">Write</a>
       <a href="/stats" class="nav-link">Stats</a>
       <button class="nav-link" onclick={() => (showSettings = !showSettings)}
         >Settings</button
