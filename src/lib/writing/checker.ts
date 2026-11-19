@@ -62,9 +62,10 @@ export function checkWriting(task: WritingTask, text: string): CheckResult {
   const tooLong = wordCount > task.maxWords;
   const nonEmpty = lines(text);
 
-  const hasGreeting = GREETING.test(text);
+  const isLetter = task.kind !== "text";
+  const hasGreeting = !isLetter || GREETING.test(text);
   const tail = nonEmpty.slice(-3).join(" ");
-  const hasClosing = CLOSING.test(tail);
+  const hasClosing = !isLetter || CLOSING.test(tail);
 
   const points = task.points.map((point) => ({
     point,
@@ -89,12 +90,12 @@ export function checkWriting(task: WritingTask, text: string): CheckResult {
     );
   }
 
-  if (task.register === "formal" && INFORMAL_MARKERS.test(text)) {
+  if (isLetter && task.register === "formal" && INFORMAL_MARKERS.test(text)) {
     issues.push(
       "This is formal: use 'u/uw' and avoid 'je/jij/hoi/groetjes'.",
     );
   }
-  if (task.register === "informal" && FORMAL_MARKERS.test(text)) {
+  if (isLetter && task.register === "informal" && FORMAL_MARKERS.test(text)) {
     issues.push("This is informal: use 'je/jij' instead of 'u/uw'.");
   }
 
@@ -108,6 +109,11 @@ export function checkWriting(task: WritingTask, text: string): CheckResult {
   const punctuation = (text.match(/[.!?]/g) ?? []).length;
   if (wordCount >= 20 && punctuation < Math.floor(wordCount / 20)) {
     issues.push("Use full stops. Write shorter sentences.");
+  }
+
+  const sentences = text.split(/[.!?]+/).filter((x) => x.trim()).length;
+  if (task.minSentences && sentences < task.minSentences) {
+    issues.push(`Write at least ${task.minSentences} full sentences.`);
   }
 
   for (const rule of GRAMMAR_RULES) {

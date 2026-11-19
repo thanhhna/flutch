@@ -61,7 +61,7 @@ function checkField(field: FormField, raw: string): FormFieldResult {
           "Write the date like 14-03-1990 or 14 maart 1990.",
         );
       }
-      return result(field, value, got === normalizeDate(field.answer));
+      return result(field, value, field.open || got === normalizeDate(field.answer));
     }
     case "postcode": {
       if (!/^\d{4} ?[A-Z]{2}$/.test(clean)) {
@@ -74,9 +74,18 @@ function checkField(field: FormField, raw: string): FormFieldResult {
       }
       const same =
         clean.replace(" ", "") === field.answer.replace(" ", "");
-      return result(field, value, same);
+      return result(field, value, field.open || same);
     }
     case "phone": {
+      if (field.open) {
+        const ok = /^(?:0|\+31|0031)\d{9}$/.test(clean.replace(/[\s-]/g, ""));
+        return result(
+          field,
+          value,
+          ok,
+          ok ? "" : "Write a Dutch phone number, like 06 12345678.",
+        );
+      }
       const same =
         clean.replace(/[^\d]/g, "") === field.answer.replace(/[^\d]/g, "");
       return result(field, value, same);
@@ -85,7 +94,11 @@ function checkField(field: FormField, raw: string): FormFieldResult {
       if (!/^\S+@\S+\.\S+$/.test(clean)) {
         return result(field, value, false, "This is not an e-mail address.");
       }
-      return result(field, value, clean.toLowerCase() === field.answer);
+      return result(
+        field,
+        value,
+        field.open || clean.toLowerCase() === field.answer,
+      );
     }
     case "iban": {
       const same =
@@ -96,7 +109,13 @@ function checkField(field: FormField, raw: string): FormFieldResult {
     case "number":
       return result(field, value, clean.replace(/\s/g, "") === field.answer);
     case "choice":
-      return result(field, value, clean === field.answer);
+      return result(
+        field,
+        value,
+        field.open
+          ? (field.options ?? []).includes(clean)
+          : clean === field.answer,
+      );
     case "sentence": {
       const words = clean.split(" ").length;
       if (words < 3) {
@@ -117,6 +136,10 @@ function checkField(field: FormField, raw: string): FormFieldResult {
       );
     }
     default: {
+      if (field.open) {
+        const ok = /^[A-ZÀ-Þ0-9]/.test(clean);
+        return result(field, value, ok, ok ? "" : "Start with a capital letter.");
+      }
       const accepted = [field.answer, ...(field.accept ?? [])];
       if (accepted.includes(clean)) return result(field, value, true);
       const lower = accepted.some((a) => a.toLowerCase() === clean.toLowerCase());

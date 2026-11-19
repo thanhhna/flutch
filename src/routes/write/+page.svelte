@@ -1,7 +1,11 @@
 <script lang="ts">
   import { onMount } from "svelte";
-  import { writingTasks } from "$lib/writing/tasks";
-  import { formTasks } from "$lib/writing/forms";
+  import { writingTasks as practiceWriting } from "$lib/writing/tasks";
+  import { formTasks as practiceForms } from "$lib/writing/forms";
+  import {
+    officialFormTasks,
+    officialWritingTasks,
+  } from "$lib/writing/official";
   import { checkWriting, countWords } from "$lib/writing/checker";
   import { checkForm } from "$lib/writing/formChecker";
   import { writingStore } from "$lib/store/writing";
@@ -13,6 +17,9 @@
   } from "$lib/writing/types";
 
   type Phase = "list" | "write" | "result";
+
+  const writingTasks = [...officialWritingTasks, ...practiceWriting];
+  const formTasks = [...officialFormTasks, ...practiceForms];
 
   let phase = $state<Phase>("list");
   let task = $state<WritingTask | null>(null);
@@ -145,6 +152,9 @@
               <span class="task-main">
                 <span class="task-title">{f.title}</span>
                 <span class="task-meta">
+                  {#if f.official}
+                    <span class="badge official">official example</span>
+                  {/if}
                   <span class="badge form">form</span>
                   <span class="badge">{f.fields.length} fields</span>
                 </span>
@@ -172,6 +182,9 @@
               <span class="task-main">
                 <span class="task-title">{t.title}</span>
                 <span class="task-meta">
+                  {#if t.official}
+                    <span class="badge official">official example</span>
+                  {/if}
                   <span class="badge">{t.kind}</span>
                   <span class="badge {t.register}">{t.register}</span>
                   <span class="badge">{t.minWords}-{t.maxWords} words</span>
@@ -194,7 +207,12 @@
       <section class="card">
         <div class="card-head">
           <h2>{formTask.title}</h2>
-          <span class="badge form">form</span>
+          <span class="badges">
+            {#if formTask.official}
+              <span class="badge official">official example</span>
+            {/if}
+            <span class="badge form">form</span>
+          </span>
         </div>
         <p class="situation">{formTask.situation}</p>
         {#if showEnglish}
@@ -203,7 +221,16 @@
         <button class="link" onclick={() => (showEnglish = !showEnglish)}>
           {showEnglish ? "Hide English" : "Show English"}
         </button>
-        <blockquote class="source">{formTask.source}</blockquote>
+        {#if formTask.pictures}
+          <ul class="pictures">
+            {#each formTask.pictures as pic, i}
+              <li><span class="pic-n">{i + 1}</span>{pic}</li>
+            {/each}
+          </ul>
+        {/if}
+        {#if formTask.source}
+          <blockquote class="source">{formTask.source}</blockquote>
+        {/if}
       </section>
 
       <section class="card form">
@@ -249,7 +276,9 @@
             {#if phase === "result" && r && !r.correct}
               <p class="field-msg">
                 {#if r.message}{r.message}{/if}
-                <span class="expected">Expected: {f.answer}</span>
+                <span class="expected">
+                  {f.open ? "Example" : "Expected"}: {f.answer}
+                </span>
               </p>
             {/if}
           </div>
@@ -265,6 +294,11 @@
           <div class="verdict {formResult.ready ? 'ok' : 'bad'}">
             {#if formResult.ready}
               Goed gedaan! Every field is correct.
+              {#if formTask.official}
+                <span class="verdict-note">
+                  Your own details are fine; compare with the example answers.
+                </span>
+              {/if}
             {:else}
               {formResult.correctCount} / {formResult.fields.length} correct.
               Check the red fields.
@@ -280,7 +314,12 @@
       <section class="card">
         <div class="card-head">
           <h2>{task.title}</h2>
-          <span class="badge {task.register}">{task.register}</span>
+          <span class="badges">
+            {#if task.official}
+              <span class="badge official">official example</span>
+            {/if}
+            <span class="badge {task.register}">{task.register}</span>
+          </span>
         </div>
         <p class="situation">{task.situation}</p>
         {#if showEnglish}
@@ -289,6 +328,14 @@
         <button class="link" onclick={() => (showEnglish = !showEnglish)}>
           {showEnglish ? "Hide English" : "Show English"}
         </button>
+
+        {#if task.pictures}
+          <ul class="pictures">
+            {#each task.pictures as pic, i}
+              <li><span class="pic-n">{i + 1}</span>{pic}</li>
+            {/each}
+          </ul>
+        {/if}
 
         <p class="to">Aan: <strong>{task.recipient}</strong></p>
 
@@ -363,8 +410,10 @@
               {#if result.tooShort}(too short, min {task.minWords}){/if}
               {#if result.tooLong}(too long, max {task.maxWords}){/if}
             </li>
-            <li class={result.hasGreeting ? "ok" : "bad"}>Greeting</li>
-            <li class={result.hasClosing ? "ok" : "bad"}>Closing</li>
+            {#if task.kind !== "text"}
+              <li class={result.hasGreeting ? "ok" : "bad"}>Greeting</li>
+              <li class={result.hasClosing ? "ok" : "bad"}>Closing</li>
+            {/if}
           </ul>
 
           {#if result.issues.length > 0}
@@ -482,6 +531,53 @@
   .badge.form {
     background: #ede9fe;
     color: #5b21b6;
+  }
+
+  .badges {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    gap: 0.35rem;
+  }
+
+  .badge.official {
+    background: #ffedd5;
+    color: #9a3412;
+  }
+
+  .pictures {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+  }
+
+  .pictures li {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-size: 0.95rem;
+  }
+
+  .pic-n {
+    flex-shrink: 0;
+    width: 1.5rem;
+    height: 1.5rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    background: var(--color-surface-alt);
+    font-size: 0.75rem;
+    font-weight: 700;
+  }
+
+  .verdict-note {
+    display: block;
+    font-weight: 500;
+    font-size: 0.85rem;
   }
 
   .source {

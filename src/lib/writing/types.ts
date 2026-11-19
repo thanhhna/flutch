@@ -1,5 +1,5 @@
 export type Register = "formal" | "informal";
-export type TaskKind = "email" | "note" | "message";
+export type TaskKind = "email" | "note" | "message" | "text";
 
 export type TaskPoint = {
   id: string;
@@ -18,12 +18,15 @@ export type WritingTask = {
   title: string;
   kind: TaskKind;
   register: Register;
+  official?: boolean;
   situation: string;
   situationEn: string;
+  pictures?: string[];
   recipient: string;
   points: TaskPoint[];
   minWords: number;
   maxWords: number;
+  minSentences?: number;
   phrases: Phrase[];
   model: string;
 };
@@ -76,15 +79,18 @@ export type FormField = {
   options?: string[];
   placeholder?: string;
   pattern?: string;
+  open?: boolean;
 };
 
 export type FormTask = {
   id: string;
   title: string;
   formTitle: string;
+  official?: boolean;
   situation: string;
   situationEn: string;
-  source: string;
+  pictures?: string[];
+  source?: string;
   fields: FormField[];
 };
 
